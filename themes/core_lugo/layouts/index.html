@@ -20,10 +20,10 @@
 <header><h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1></header>
 <h1 style="text-align: center;">corejournal</h1>
 <br>
-<h3 style="text-align: center;" class="section_header">Introduction</h2>
+<h3 style="text-align: center;" class="section_header">Introduction</h3>
 <p>My real life name is Logan, but you don't need to know more than that. I have a lot of great plans for this website so I'm glad you're visiting.</p>
 <hr>
-<h3 style="text-align: center;" class="section_header">Items</h2>
+<h3 style="text-align: center;" class="section_header">Items</h3>
 <ul>
 	<li><a href="{{ .Site.BaseURL }}/about" class="website_link">About</a></li>
 	<li><a href="{{ .Site.BaseURL }}/contact" class="website_link">Contact</a></li>
@@ -40,7 +40,7 @@
 {{ if .Param "taglist" }}{{ partial "taglist.html" . }}{{ end -}}
 </article>
 
-<h3 style="text-align: center;" class="section_header">Posts</h2>
+<h3 style="text-align: center;" class="section_header">Posts</h3>
 <ul style="list-style-type: none;">
     {{- range .Pages }}
         {{- if not .Params.exclude }} <!-- Add this condition to exclude certain pages -->
