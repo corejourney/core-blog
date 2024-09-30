@@ -17,3 +17,4 @@ My aim with this website is to write down thoughts that I can look back on in th
 - The silliness of modern transgenderism
 - Stop using social media. Just stop it.
 - Why I hate politics
+- It's over, it was always over, and there's nothing I can do, and other silly lies.
