@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language }}">
+<head>
+	<title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>
+	<link rel="canonical" href="{{ .Site.BaseURL }}">
+	<link rel='alternate' type='application/rss+xml' title="{{ .Site.Title }} RSS" href='/index.xml'>
+	<link rel='stylesheet' type='text/css' href='/style.css'>
+	{{ with .Site.Params.favicon }}<link rel="icon" href="{{ . }}">
+	{{ end -}}
+	<meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
+	{{ if isset .Params "tags" }}<meta name="keywords" content="{{ with .Params.tags }}{{ delimit . ", " }}{{ end }}">
+	{{ end -}}
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="index, follow">
+	<meta charset="utf-8">
+</head>
+<body>
+{{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end -}}
+<main>
+<header><h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1></header>
+<h1 style="text-align: center;">corejournal</h1>
+<br>
+<h3 style="text-align: center;" class="section_header">Introduction</h2>
+<p>My real life name is Logan, but you don't need to know more than that. I have a lot of great plans for this website so I'm glad you're visiting.</p>
+<hr>
+<h3 style="text-align: center;" class="section_header">Items</h2>
+<ul>
+	<li><a href="{{ .Site.BaseURL }}/about" class="website_link">About</a></li>
+	<li><a href="{{ .Site.BaseURL }}/contact" class="website_link">Contact</a></li>
+	<li><a href="{{ .Site.BaseURL }}/support" class="website_link">Support</a></li>
+</ul>
+
+<hr>
+<br>
+<article>
+{{ block "main" . }}
+{{ .Content }}
+{{ end }}
+{{ if .Param "nextprev" }}{{ partial "nextprev.html" . -}}{{ end -}}
+{{ if .Param "taglist" }}{{ partial "taglist.html" . }}{{ end -}}
+</article>
+
+<h3 style="text-align: center;" class="section_header">Posts</h2>
+<ul style="list-style-type: none;">
+    {{- range .Pages }}
+        {{- if not .Params.exclude }} <!-- Add this condition to exclude certain pages -->
+            <li>
+                {{- if .Param "datesinlist" }}<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" style="font-family: monospace;">{{ .Date.Format "2006 Jan 02" }}</time> &ndash; {{ end -}}
+                <a href="{{ .RelPermalink }}" style="color: #5ce8d5; text-decoration: none;">{{ .Title }}</a>
+                {{- if .Params.authorsinlist }}
+                    {{ with .Params.authors }}
+                        by {{ delimit . ", " " and " }}
+                    {{ end }}
+                {{ end -}}
+            </li>
+        {{- end }}
+    {{- end }}
+</ul>
+
+
+</main>
+{{ block "footer" . }}
+<footer>
+	<br> <br>
+	<a href="{{ .Site.BaseURL }}" id="base-url">{{ .Site.BaseURL }}</a>
+</footer>
+{{ end }}
+</body>
+</html>
