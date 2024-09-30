@@ -1,0 +1,4 @@
+baseURL = 'https://corejourney.ca'
+languageCode = 'en-us'
+title = 'corejournal'
+theme = 'core_lugo'
