@@ -17,7 +17,7 @@
 <body>
 {{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end -}}
 <main>
-<header><h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1></header>
+<header><h1 id="tag_{{ .Title }}" style="color: rgb(227, 66, 55)">{{ block "title" . }}{{ end }}</h1></header>
 <br> <br>
 <article>
 {{ block "main" . }}
@@ -29,8 +29,10 @@
 </main>
 {{ block "footer" . }}
 <footer>
+	<br> <br>
+	<a href="{{ .Site.BaseURL }}" id="base-url">{{ .Site.BaseURL }}</a> 
 	<br><br>
-	<a href="{{ .Site.BaseURL }}" id="base-url">{{ .Site.BaseURL }}</a>
+	Monero (<a href="/pics/monero.png">QR</a>): <br><codes style="font-size: x-small; color:rgb(227, 66, 55)">875rb2p5mfjbAsBT7vbZKvGWM864haZsC5j4LmbzhuNKJBY79LwJ9rveK3hP2HkS2G31f4JDJNhM38sedJ3LgfSqPeopjRU</code>
 </footer>
 {{ end }}
 </body>

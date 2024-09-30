@@ -1,6 +1,6 @@
 body {
 	font-family: sans-serif ;
-	background: #110000 ;
+	background: #1b1b1b;
 	color: #ccc ;
 }
 
@@ -9,13 +9,26 @@ body {
 	text-decoration: none;
 }
 
+a {
+	color: #5ce8d5;
+	text-decoration: none;
+}
+
 main {
-	max-width: 800px ;
+	max-width: 650px ;
 	margin: auto ;
 }
 
+h4 {
+	font-size: small;
+	color: rgb(227, 66, 55);
+}
+
 img {
-	max-width: 100% ;
+	max-width: 50% ;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 li {

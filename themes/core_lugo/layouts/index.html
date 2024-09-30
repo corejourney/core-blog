@@ -18,7 +18,7 @@
 {{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end -}}
 <main>
 <header><h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1></header>
-<h1 style="text-align: center;">corejournal</h1>
+<h1 style="text-align: center; color:rgb(227, 66, 55)">corejournal</h1>
 <br>
 <h3 style="text-align: center;" class="section_header">Introduction</h3>
 <p>My real life name is Logan, but you don't need to know more than that. I have a lot of great plans for this website so I'm glad you're visiting.</p>
@@ -62,7 +62,9 @@
 {{ block "footer" . }}
 <footer>
 	<br> <br>
-	<a href="{{ .Site.BaseURL }}" id="base-url">{{ .Site.BaseURL }}</a>
+	<a href="{{ .Site.BaseURL }}" id="base-url">{{ .Site.BaseURL }}</a> 
+	<br><br>
+	Monero (<a href="/pics/monero.png">QR</a>): <br><codes style="font-size: x-small; color:rgb(227, 66, 55)">875rb2p5mfjbAsBT7vbZKvGWM864haZsC5j4LmbzhuNKJBY79LwJ9rveK3hP2HkS2G31f4JDJNhM38sedJ3LgfSqPeopjRU</code>
 </footer>
 {{ end }}
 </body>
