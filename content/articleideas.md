@@ -13,5 +13,5 @@ draft = true
 - Stop using social media. Just stop it.
 - Why I hate online political discussions
 - It's over, it was always over, there's nothing I can do, and other silly lies.
-- "I can't quit"
 - Why buying DIY HRT is easy. (There is almost no excuse to not be on it, basically)
+- Quitting addictions is easy, if you're serious about it

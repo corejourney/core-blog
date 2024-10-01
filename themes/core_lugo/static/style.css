@@ -33,13 +33,14 @@ img {
 
 li {
 	font-family: 'Times New Roman', Times, serif;
+	color: whitesmoke;
 }
 
 .section_header {
 	color: #248bda;
 }
 
-h2 {
+h2, h3 {
 	text-align: center;
 	color: #248bda;
 }
