@@ -1,5 +1,5 @@
 +++
-title = 'Post for testing purposes only'
+title = 'Post for testing purposes'
 date = 2024-09-29T17:36:57-04:00
 draft = false
 +++
