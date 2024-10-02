@@ -13,6 +13,53 @@ blockquote {
 	color: #789922;
 }
 
+#linker {
+	list-style: none ;
+	text-align: center ;
+	font-size: 48pt ;
+	margin: 0 ;
+}
+
+#linker li {
+	display: inline ;
+	padding: .1em ;
+	margin: .1em ;
+}
+
+.icon-menu {
+	display: flex;
+	justify-content: center;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	background-color: #1b1b1b;
+  }
+
+  .icon-menu li {
+	margin: 0 15px;
+  }
+
+  .icon-menu img {
+	max-width: 50px;
+	vertical-align: middle;
+  }
+
+  .icon-menu a {
+	text-decoration: none;
+	color: #333;
+	text-align: center;
+  }
+
+  .icon-menu a i {
+	font-size: 24px;
+	display: block;
+	margin-bottom: 5px;
+  }
+
+  .icon-menu a:hover {
+	border: #007bff;
+  }
+
 em {
 	color: rgb(204, 190, 190);
 }
