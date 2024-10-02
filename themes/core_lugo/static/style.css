@@ -9,9 +9,21 @@ body {
 	text-decoration: none;
 }
 
+blockquote {
+	color: #789922;
+}
+
+em {
+	color: rgb(204, 190, 190);
+}
+
 a {
 	color: #5ce8d5;
 	text-decoration: none;
+}
+
+strong {
+	color: rgb(222, 118, 43);
 }
 
 main {
@@ -58,6 +70,12 @@ p {
 
 header h1 {
 	text-align: center ;
+}
+
+h1 {
+	text-align: center ;
+	color: rgb(227, 66, 55);
+	font-size: xx-large;
 }
 
 footer {

@@ -1,7 +1,7 @@
 +++
 title = 'Why Everyone Should Own Monero'
 date = 2024-09-30T22:12:55-04:00
-draft = false
+draft = true
 tags = ["💻Technology", "💸Cryptocurrency"]
 +++
 Everyone should own monero. You are in fact cucking yourself if you do not own monero, and through this article I hope to convince you to get some Monero for yourself.
