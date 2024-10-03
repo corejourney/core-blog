@@ -8,7 +8,8 @@ tags = ["🧑Personal"]
 
 ![glowie](/pics/glowie.png)
 ## Contact Information
-- Discord: [corejourney_](http://discord.com)
+- Discord: [corejourney_](https://discord.com)
+- Twitter: [@corejourney1](https://x.com/corejourney1)
 - Email: corejourney@tutamail.com
 - Github: [tl0x](https://github.com/tl0x)
 

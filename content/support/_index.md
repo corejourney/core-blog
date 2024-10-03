@@ -9,4 +9,4 @@ If you would like to support anything I do, feel free to send me some Monero.
 > #### 875rb2p5mfjbAsBT7vbZKvGWM864haZsC5j4LmbzhuNKJBY79LwJ9rveK3hP2HkS2G31f4JDJNhM38sedJ3LgfSqPeopjRU
 ![Monero](/pics/monero.png)
 
-**For Donators:** If you would so desire, I can add your name to this page. Make sure to email me with proof of transaction.
+**For Donators:** If you would so desire, I can add a message of your choice to this page. Make sure to [email me](/contact/) with proof of transaction.
