@@ -10,7 +10,7 @@ tags = ["🧑Personal"]
 ㅤ
 ## Who am I?
 
-I am an 18 year old undergraduate student named Logan. I am interested in topics including Chemistry, Language, Medicine, Technology, Politics and Cryptocurrency. I hope to become an engineer. I am also a transsexual, but that doesn't really matter.
+I am an undergraduate student named Logan. I am interested in topics including Chemistry, Language, Medicine, Technology, Politics and Cryptocurrency. I hope to become an engineer. I am also a transsexual, but that doesn't really matter.
 
 ## Purpose
 My aim with this website is to write down thoughts that I can look back on in the future. Topics will range from technology, to medicine, personal matters, and social "commentary" if you can call rants that. I hope you enjoy. 

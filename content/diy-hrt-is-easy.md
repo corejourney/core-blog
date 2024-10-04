@@ -7,23 +7,23 @@ tags = ["💊Medicine", "🚆Articles"]
 **Here's a hard truth: There are almost no excuses for not being on HRT if you are of legal age**
 
 ## A collection of silly excuses
-> **But it's illegal!**
+> \>But it's illegal!
 
 This assertion is *only half-true* if you want testosterone. But it is *completely incorrect* if you want estrogen. There is no legal risk in virtually any country of purchasing estradiol or its derivatives because it is not a controlled substance.
 
-> **But.. but.. testosterone is a controlled substance!™**
+> \>But.. but.. testosterone is a controlled substance!™
 
-**Let me ask you a question:** Have you *ever* heard of a case of a gym rat getting caught with testosterone? Have you heard of someone being *persecuted* for testosterone possession? No. Because that never happens. In fact, many bodybuilders speak openly about using steroids. If you are only buying or possessing testosterone, you are in fact in very little to no legal danger.
+**Let me ask you a question:** Have you *ever* heard of a case of a gym rat getting caught with testosterone? Have you heard of someone being *persecuted* for testosterone possession? No. Because that never happens. In fact, many bodybuilders speak openly about using steroids. If you are only buying or possessing testosterone, you are in fact in very little to no legal danger. Don't say or do anything stupid are you're fine.
 
-> **But I'm broke and don't have enough money!!!**
+> \>But I'm broke and don't have enough money!!!
 
 **DIY is relatively cheap**. ~100 dollars USD for a year of injections. Get a job or sell something you own.
 
-> **But I'm scared of syringes!**
+> \>But I'm scared of syringes!
 
 This one is definitely the weirdest one to me. Do you think if you were diagnosed with diabetes you would use this excuse? Stop *denying yourself* bodily autonomy just because of a fear you can get over easily. 
 
-> **But.. it's dangerous!**
+> \>But.. it's dangerous!
 
 This is only true in the sense that every time you inject something inside your body, you run the risk of something going wrong. There are hundreds, thousands of anecdotal reports of people on DIY hormones, yet something going horribly wrong is unheard of.
 
@@ -35,7 +35,7 @@ Reading justifications of not being able to be on HRT really frustrates me in a 
 **Note: I am not an expert in endocrinology or the best practices in dosing or which ester to choose. This article will not cover these topics.**
 
 ## Picking a source
-For people seeking out estrogen, [hrtcafe.net](https://hrtcafe.net) has a good and constantly updating source list. For those who are seeking out testosterone, check out [eroids.com](https://www.eroids.com/) for a source list in your respective region. I cannot confirm the quality of any of the sources found. It is up to you to conduct further research.
+For people seeking out estrogen, [hrtcafe.net](https://hrtcafe.net) has a good and constantly updating source list. For those who are seeking out testosterone, check out [eroids.com](https://www.eroids.com/) and [steroidsourcetalk.cc](https://steroidsourcetalk.cc/) for a source list in your respective region. I cannot confirm the quality of any of the sources found. It is up to you to conduct further research.
 
 ## Obtaining Cryptocurrency
 I've found the biggest reason why people are turned off by the idea of DIY HRT is the cryptocurrency requirement. In reality, it is not that hard. An hour at most and you'll understand what you need to know about it.
