@@ -1,10 +1,10 @@
 +++
-title = 'Obtaining DIY Hormones is Easy!'
+title = 'Friendly reminder: DIY or DIE.'
 date = 2024-10-01T20:16:55-04:00
 draft = false
 tags = ["💊Medicine", "🚆Articles"]
 +++
-**Here's a hard truth: There are almost no excuses for not being on HRT if you are of legal age**
+**Here's a hard truth: There are almost no excuses for not being on HRT if you are of legal age, if you are in a developed country.**
 
 ## A collection of silly excuses
 > \>But it's illegal!

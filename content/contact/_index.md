@@ -1,6 +1,6 @@
 +++
 title = 'Contact'
-date = 2024-09-29T18:02:44-04:00
+date = 0000-01-01T18:02:44-04:00
 draft = false
 exclude = true
 tags = ["🧑Personal"]

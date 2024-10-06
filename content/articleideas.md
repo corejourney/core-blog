@@ -14,6 +14,7 @@ draft = true
 - It's over, it was always over, there's nothing I can do, and other silly lies.
 - Quitting addictions is easy, if you're serious about it
 - Against "Smart" Devices
+- Transgender and Transsexual, a proposal of a new divide
 
 tags:
 - 💸Cryptocurrency
