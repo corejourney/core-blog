@@ -15,6 +15,7 @@ draft = true
 - Quitting addictions is easy, if you're serious about it
 - Against "Smart" Devices
 - Transgender and Transsexual, a proposal of a new divide
+- "I liked math until they added letters into it"
 
 tags:
 - 💸Cryptocurrency
