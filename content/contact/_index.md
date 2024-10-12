@@ -13,4 +13,4 @@ tags = ["🧑Personal"]
 - Email: corejourney@tutamail.com
 - Github: [tl0x](https://github.com/tl0x)
 
-All other social medias are invalid. I do not have anything other than these platforms. Anyone else claiming to be me is an imposter.
+All other platforms are invalid. I do not have anything other than these platforms.
