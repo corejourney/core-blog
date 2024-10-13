@@ -19,7 +19,7 @@ All the books that I own **physical copies of**. If you want my opinion on any o
 - Wilde, Oscar - *The Picture of Dorian Gray*
 - 余华 - *To live*《*活着*》
 - 莫言 - *Life and Death are Wearing Me Out*《*生死疲劳*》
-- 신경숙 (申京淑) - *Please Look After Mom 엄마를 부탁해* (한국판)
+- 신경숙 (申京淑) - *Please Look After Mom 엄마를 부탁해* (한글판)
 
 ### Religious Texts and Theology
 - Author Unknown - *The King James Bible (1611)*
