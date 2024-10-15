@@ -16,6 +16,7 @@ All the books that I own **physical copies of**. If you want my opinion on any o
 - Orwell, George - *1984*
 - Orwell, George - *Animal Farm*
 - Shelley, Mary - *Frankenstein*
+- Tolstoy, Leo - *How Much Land Does a Man Need?*
 - Wilde, Oscar - *The Picture of Dorian Gray*
 - 余华 - *To live*《*活着*》
 - 莫言 - *Life and Death are Wearing Me Out*《*生死疲劳*》
@@ -24,6 +25,7 @@ All the books that I own **physical copies of**. If you want my opinion on any o
 ### Religious Texts and Theology
 - Author Unknown - *The King James Bible (1611)*
 - Author Unknown -《*圣经*》
+- Bible Society - *Chinese-English Bible* 《*华英圣经*》
 
 ### Languages and Dictionaries
 - Jiang, Liping - *Standard Course HSK6A* （上）
