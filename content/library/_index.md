@@ -6,7 +6,9 @@ exclude = true
 tags = ['🧑Personal', '🗳️Politics', '💊Medicine']
 +++
 
-All the books that I own **physical copies of**. If you want my opinion on any one of these books, feel free to [email me](/contact). Links to any articles I may write about these books will be included.
+All the books that I own. (E-books are heckin fake, dude). 
+
+If you want my opinion on any one of these books, feel free to [email me](/contact). Links to any articles I may write about these books will be included.
 
 ***
 
@@ -17,6 +19,7 @@ All the books that I own **physical copies of**. If you want my opinion on any o
 - Orwell, George - *Animal Farm*
 - Shelley, Mary - *Frankenstein*
 - Tolstoy, Leo - *How Much Land Does a Man Need?*
+- Tolstoy, Leo - *What Men Live By*
 - Wilde, Oscar - *The Picture of Dorian Gray*
 - 余华 - *To live*《*活着*》
 - 莫言 - *Life and Death are Wearing Me Out*《*生死疲劳*》
@@ -40,6 +43,7 @@ All the books that I own **physical copies of**. If you want my opinion on any o
 - Kirsch, Donald - *The Drug Hunters: The Improbable Quest to Discover New Medicines*
 
 ### Philosophy
+- Nietzsche, Friedrich - *Beyond Good and Evil*
 - Author Unknown - 《*三十六计*》
 - 孙子 - 《*孙子兵法*》
 - 鬼谷子 - 《*鬼谷子*》（古籍）
