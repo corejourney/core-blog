@@ -11,6 +11,6 @@ tags = ["🧑Personal"]
 - Discord: [corejourney_](https://discord.com)
 - Twitter: [@corejourney1](https://x.com/corejourney1)
 - Email: corejourney@tutamail.com
-- Github: [tl0x](https://github.com/tl0x)
+- ~~Github : [Redacted for privacy]()~~
 
 All other platforms are invalid. I do not have anything other than these platforms.

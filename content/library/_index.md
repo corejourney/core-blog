@@ -6,9 +6,11 @@ exclude = true
 tags = ['🧑Personal', '🗳️Politics', '💊Medicine']
 +++
 
-All the books that I own. (E-books are heckin fake, dude). 
+All the books that I own. ([E-books are heckin fake, dude](/ebooks-h)). 
 
-If you want my opinion on any one of these books, feel free to [email me](/contact). Links to any articles I may write about these books will be included.
+If you want my opinion on any one of these books, feel free to [contact me](/contact). Links to any articles I may write about these books will be included.
+
+Books are organised by the author's surname in categories. I might formalize the categories on a future date.
 
 ***
 
@@ -38,7 +40,7 @@ If you want my opinion on any one of these books, feel free to [email me](/conta
 ### Biographies and Histories
 - Short, Philip - 《*毛泽东传中文版*》
 
-### Sciences
+### Science and Medicine
 - Hawkings, Stevens - *A Brief History of Time*
 - Kirsch, Donald - *The Drug Hunters: The Improbable Quest to Discover New Medicines*
 

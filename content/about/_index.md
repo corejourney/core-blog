@@ -10,4 +10,6 @@ tags = ["🧑Personal"]
 ㅤ
 ## Who am I?
 
-I am an undergraduate student. I am interested in topics including Chemistry, Language, Medicine, Technology, Politics and Cryptocurrency. I hope to become an engineer eventually. I will write my thoughts here on this blog.
+I am an undergraduate student. I am interested in topics including Chemistry, Language, Medicine, Technology, Politics and Cryptocurrency. This website will be dedicated to articles containing my thoughts, along with any useful tutorials or information that I come across.
+
+If you wish to talk for whateve reason, feel free to [message me](/contact).
