@@ -6,7 +6,7 @@ exclude = true
 tags = ['🧑Personal', '🗳️Politics', '💊Medicine']
 +++
 
-All the books that I own. ([E-books are heckin fake, dude](/ebooks-h)). 
+All the books that I own. ([E-books are fake, dude](/ebooks-h)). 
 
 If you want my opinion on any one of these books, feel free to [contact me](/contact). Links to any articles I may write about these books will be included.
 
@@ -41,11 +41,13 @@ Books are organised by the author's surname in categories. I might formalize the
 - Short, Philip - 《*毛泽东传中文版*》
 
 ### Science and Medicine
+- Freeman, Walter - *Physchosurgery:  Intelligence, Emotion and Social Behavior Following Prefrontal Lobotomy for Mental Disorders*
 - Hawkings, Stevens - *A Brief History of Time*
 - Kirsch, Donald - *The Drug Hunters: The Improbable Quest to Discover New Medicines*
 
 ### Philosophy
 - Nietzsche, Friedrich - *Beyond Good and Evil*
 - Author Unknown - 《*三十六计*》
+- 墨子 - 《*墨子*》
 - 孙子 - 《*孙子兵法*》
 - 鬼谷子 - 《*鬼谷子*》（古籍）
