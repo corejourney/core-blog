@@ -6,7 +6,6 @@ exclude = true
 tags = ["🧑Personal"]
 +++
 
-![soyjak](/pics/boring.png)
 ㅤ
 ## Who am I?
 

@@ -1,5 +1,6 @@
 body {
 	font-family: sans-serif ;
+	/* background: #1b1b1b; */
 	background: #1b1b1b;
 	color: #ccc ;
 }
@@ -127,6 +128,7 @@ h1 {
 	text-align: center ;
 	color: rgb(227, 66, 55);
 	font-size: xx-large;
+	font-family: Garamond, serif;
 }
 
 footer {

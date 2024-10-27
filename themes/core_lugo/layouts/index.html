@@ -23,7 +23,6 @@
 <img src="pics/landscape.png">
 <p style="text-align: center;">I hope you enjoy your stay.</p>
 <p style="text-align: center;">Please refer to the About Me page for more information about me.</p>
-<hr>
 <ul class="icon-menu">
 	<li><a href="{{ .Site.BaseURL }}/about"><img src="/pics/about.png">  </a></li>
 	<li><a href="{{ .Site.BaseURL }}/contact"><img src="/pics/letter.svg">  </a></li>
@@ -31,7 +30,6 @@
 	<li><a href="{{ .Site.BaseURL }}/support"><img src="/pics/xmr.svg">  </a></li>
 </ul>
 
-<hr>
 <br>
 <article>
 {{ block "main" . }}
@@ -41,7 +39,7 @@
 {{ if .Param "taglist" }}{{ partial "taglist.html" . }}{{ end -}}
 </article>
 
-<h2 style="text-align: center;" class="section_header">Posts</h3>
+<h2 style="text-align: center;" class="section_header">The Journal</h3>
 <br>
 <ul style="list-style-type: none;">
     {{- range .Pages }}
@@ -64,7 +62,6 @@
 {{ block "footer" . }}
 <footer>
 	<br> <br>
-	<a href="{{ .Site.BaseURL }}" id="base-url" style="color: greenyellow;">Back to Top</a> 
 	<br><br>
 	Monero (<a href="/pics/monero.png">QR</a>): <br><codes style="font-size: x-small; color:rgb(227, 66, 55)">875rb2p5mfjbAsBT7vbZKvGWM864haZsC5j4LmbzhuNKJBY79LwJ9rveK3hP2HkS2G31f4JDJNhM38sedJ3LgfSqPeopjRU</code>
 </footer>
