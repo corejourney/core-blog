@@ -10,4 +10,4 @@ exclude = true
 
 I am an undergraduate student. I am interested in topics including Chemistry, Language, Medicine, Technology, Politics and Cryptocurrency. This website will be dedicated to articles containing my thoughts, along with any useful tutorials or information that I come across.
 
-If you wish to talk for whateve reason, feel free to [message me](/contact).
+If you wish to talk for whatever reason, feel free to [message me](/contact).
