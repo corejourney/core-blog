@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language }}">
+<head>
+	<title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>
+	<link rel="canonical" href="{{ .Site.BaseURL }}">
+	<link rel='alternate' type='application/rss+xml' title="{{ .Site.Title }} RSS" href='/index.xml'>
+	<link rel="stylesheet" href="{{ "style.css" | relURL }}">
+	{{ with .Site.Params.favicon }}<link rel="icon" href="{{ . }}">
+	{{ end -}}
+	<meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
+	{{ if isset .Params "tags" }}<meta name="keywords" content="{{ with .Params.tags }}{{ delimit . ", " }}{{ end }}">
+	{{ end -}}
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="index, follow">
+	<meta charset="utf-8">
+</head>
+<body>
+{{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end -}}
+<main>
+<header><a href="{{ .Site.BaseURL }}"><h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1></a></header>
+<a href="{{ .Site.BaseURL }}"><h1 style="text-align: center; color:rgb(227, 66, 55)">corejournal</h1></a>
+<br>
+
+<br>
+
+<br>
+<ul style="list-style-type: none;">
+    {{- range .Site.RegularPages }}
+        {{- if not .Params.exclude }}
+            <li>
+                {{- if .Param "datesinlist" }}<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" style="font-family: monospace;">{{ .Date.Format "2006 Jan 02" }}</time> &ndash; {{ end -}}
+                <a href="{{ .RelPermalink }}" style="color: #5ce8d5; text-decoration: none;">{{ .Title }}</a>
+                {{- if .Params.authorsinlist }}
+                    {{ with .Params.authors }}
+                        by {{ delimit . ", " " and " }}
+                    {{ end }}
+                {{ end -}}
+            </li>
+        {{- end }}
+    {{- end }}
+</ul>
+
+
+</main>
+{{ block "footer" . }}
+<footer>
+	<br> <br>
+	<br><br>
+	Monero (<a href="/pics/monero.png">QR</a>): <br><codes style="font-size: x-small; color:rgb(227, 66, 55)">875rb2p5mfjbAsBT7vbZKvGWM864haZsC5j4LmbzhuNKJBY79LwJ9rveK3hP2HkS2G31f4JDJNhM38sedJ3LgfSqPeopjRU</code>
+</footer>
+{{ end }}
+</body>
+</html>

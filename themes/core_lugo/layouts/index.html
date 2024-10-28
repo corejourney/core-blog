@@ -18,7 +18,7 @@
 {{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end -}}
 <main>
 <header><a href="{{ .Site.BaseURL }}"><h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1></a></header>
-<h1 style="text-align: center; color:rgb(227, 66, 55)">corejournal</h1>
+<h1 style="text-align: center; color:rgb(227, 66, 55)">corejourney</h1>
 <br>
 <img src="pics/landscape.png">
 <p style="text-align: center;">I hope you enjoy your stay.</p>
@@ -26,6 +26,7 @@
 <ul class="icon-menu">
 	<li><a href="{{ .Site.BaseURL }}/about"><img src="/pics/about.png">  </a></li>
 	<li><a href="{{ .Site.BaseURL }}/contact"><img src="/pics/letter.svg">  </a></li>
+	<li><a href="{{ .Site.BaseURL }}/journal"><img src="/pics/journal.png">  </a></li>
 	<li><a href="{{ .Site.BaseURL }}/library"><img src="/pics/library.svg"> </a></li>
 	<li><a href="{{ .Site.BaseURL }}/support"><img src="/pics/piggy.svg">  </a></li>
 </ul>
@@ -39,31 +40,13 @@
 {{ if .Param "taglist" }}{{ partial "taglist.html" . }}{{ end -}}
 </article>
 
-<h2 style="text-align: center;" class="section_header">The Journal</h3>
 <br>
-<ul style="list-style-type: none;">
-    {{- range .Pages }}
-        {{- if not .Params.exclude }} <!-- Add this condition to exclude certain pages -->
-            <li>
-                {{- if .Param "datesinlist" }}<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" style="font-family: monospace;">{{ .Date.Format "2006 Jan 02" }}</time> &ndash; {{ end -}}
-                <a href="{{ .RelPermalink }}" style="color: #5ce8d5; text-decoration: none;">{{ .Title }}</a>
-                {{- if .Params.authorsinlist }}
-                    {{ with .Params.authors }}
-                        by {{ delimit . ", " " and " }}
-                    {{ end }}
-                {{ end -}}
-            </li>
-        {{- end }}
-    {{- end }}
-</ul>
-
 
 </main>
 {{ block "footer" . }}
 <footer>
 	<br> <br>
 	<br><br>
-	Monero (<a href="/pics/monero.png">QR</a>): <br><codes style="font-size: x-small; color:rgb(227, 66, 55)">875rb2p5mfjbAsBT7vbZKvGWM864haZsC5j4LmbzhuNKJBY79LwJ9rveK3hP2HkS2G31f4JDJNhM38sedJ3LgfSqPeopjRU</code>
 </footer>
 {{ end }}
 </body>
