@@ -3,7 +3,6 @@ title = "Core Library"
 date = 0000-01-01T18:02:44-04:00
 draft = false
 exclude = true
-tags = ['🧑Personal', '🗳️Politics', '💊Medicine']
 +++
 
 All the books that I own. ([E-books are fake, dude](/ebooks-h)). 
