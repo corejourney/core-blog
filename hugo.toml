@@ -1,4 +1,4 @@
 baseURL = 'https://corejourney.ca'
 languageCode = 'en-us'
-title = 'corejournal'
+title = 'corejourney'
 theme = 'core_lugo'
