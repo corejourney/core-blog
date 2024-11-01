@@ -1,6 +1,6 @@
 +++
 title = 'Teaching Yourself Chinese as a Clueless ABC'
-date = 2024-10-23T16:56:56-04:00
+date = 2024-11-01T16:56:56-04:00
 draft = true
 tags = ["💡Tutorial", "🈶Language"]
 +++
