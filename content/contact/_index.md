@@ -5,11 +5,8 @@ draft = false
 exclude = true
 +++
 
-![glowie](/pics/beauty.JPG)
+![bridge photo](/pics/beauty.JPG)
 ## Contact Information
-- Discord: [corejourney_](https://discord.com)
-- Twitter: [@corejourney1](https://x.com/corejourney1)
 - Email: corejourney@tutamail.com
-- ~~Github : [Redacted for privacy]()~~
 
 All other platforms are invalid.

@@ -23,6 +23,7 @@ Books are organised by the author's surname in categories. I might formalize the
 - Tolstoy, Leo - *What Men Live By*
 - Wilde, Oscar - *The Picture of Dorian Gray*
 - 余华 - *To live*《*活着*》
+- 鲁迅 - *A Better Tomorrow* 《*更好的明天*》
 - 莫言 - *Life and Death are Wearing Me Out*《*生死疲劳*》
 - 신경숙 (申京淑) - *Please Look After Mom 엄마를 부탁해* (한글판)
 
@@ -37,7 +38,7 @@ Books are organised by the author's surname in categories. I might formalize the
 - 商务印书店 -《*新华汉语词典*》
 
 ### Biographies and Histories
-- Short, Philip - 《*毛泽东传中文版*》
+- Short, Philip - *Mao: A Life, Chinese Translation*《*毛泽东传中文版*》
 
 ### Science and Medicine
 - Freeman, Walter - *Physchosurgery:  Intelligence, Emotion and Social Behavior Following Prefrontal Lobotomy for Mental Disorders*
@@ -49,4 +50,4 @@ Books are organised by the author's surname in categories. I might formalize the
 - Author Unknown - 《*三十六计*》
 - 墨子 - 《*墨子*》
 - 孙子 - 《*孙子兵法*》
-- 鬼谷子 - 《*鬼谷子*》（古籍）
+- 鬼谷子 - 《*鬼谷子*》
