@@ -38,6 +38,7 @@ Books are organised by the author's surname in categories. I might formalize the
 - 商务印书店 -《*新华汉语词典*》
 
 ### Biographies and Histories
+- Keefe, Patrick - *Empire of Pain: The Secret History of the Sackler Dynasty*
 - Short, Philip - *Mao: A Life, Chinese Translation*《*毛泽东传中文版*》
 
 ### Science and Medicine

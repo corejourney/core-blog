@@ -7,6 +7,7 @@ exclude = true
 
 ![bridge photo](/pics/beauty.JPG)
 ## Contact Information
-- Email: corejourney@tutamail.com
+- Email: zijing@tutamail.com
+- Discord: [corejourney1](https://discord.com)
 
 All other platforms are invalid.
