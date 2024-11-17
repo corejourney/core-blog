@@ -1,7 +1,7 @@
 +++
 title = 'Superiority Complexes and Reddit Atheism: A Funny Internet Archetype'
 date = 2024-11-13T21:30:31-05:00
-draft = false
+draft = true
 tags = ['🗳️Politics', '🛐Religion']
 +++
 
