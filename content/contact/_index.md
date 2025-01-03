@@ -8,6 +8,6 @@ exclude = true
 ![bridge photo](/pics/beauty.JPG)
 ## Contact Information
 - Email: zijing@tutamail.com
-- Discord: [corejourney1](https://discord.com)
+- Instagram: [zjing.ag](https://www.instagram.com/zijing.ag/)
 
 All other platforms are invalid.

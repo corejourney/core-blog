@@ -5,6 +5,8 @@ draft = false
 tags = ["💡Tutorial", "💻Technology"]
 +++
 
+#### Edit 2025/01/03: This guide was an adaption of something I wrote some time ago and may not be entirely accurate now.
+
 ### An introductory guide for using the fabric framework to create simple client-side mods.
 
 #### [Example Mod used in this tutorial](https://github.com/tl0x/keybindmod)

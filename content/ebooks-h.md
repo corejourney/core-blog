@@ -1,11 +1,13 @@
 +++
-title = 'Why I REFUSE to use E-books'
-date = 2024-10-21T20:01:21-04:00
-draft = false
+title = 'My Opinion on E-Books'
+date = 2025-01-02T20:01:21-04:00
+draft = true
 tags = ["🧑Personal", "🚶‍♀️Lifestyle"]
 +++
 
-In today's age, you cannot try to read (or do much of anything) without being forced to use some sort of e-book. Many textes can only be accessed online in fact. Here is why I refuse to read any book on a screen. (And why e-books aren't books)
+
+
+<!-- In today's age, you cannot try to read (or do much of anything) without being forced to use some sort of e-book. Many textes can only be accessed online in fact. Here is why I refuse to read any book on a screen. (And why e-books aren't books)
 
 ## not everything has to be online, dood!
 One of the worst consequences of the internet age is the attempted digitization of everything. *Everything* needs to be connected to the internet in some way. I am not a fan. There is no reason why something as basic as reading a book needs to be done on a computer screen.
@@ -29,4 +31,4 @@ It is far easier to get distracted while reading a e-book. A device like a lapto
 ## build a real library.
 **E-Books are worthless because you cannot hold it in your hand and flip through it.** You have no physical stake in that book. Although the information and words may be the same, it is not really a book as it lacks many aspects that make books special. I strongly believe you cannot claim ownership to a book if you do not own a physical copy.
 
-In conclusion, I urge you to start buying physical books. You can make it fun. Make a list of your books like I have done [here](/library). Have fun!
+In conclusion, I urge you to start buying physical books. You can make it fun. Make a list of your books like I have done [here](/library). Have fun! -->

@@ -1,15 +1,15 @@
 +++
-title = "ㅤcorelibrary"
+title = "ㅤlibrary"
 date = 0000-01-01T18:02:44-04:00
 draft = false
 exclude = true
 +++
 
-All the books that I own. ([E-books are fake, dude](/ebooks-h)). 
+#### TODO: Rewrite the E-Book article. 
 
-If you want my opinion on any one of these books, feel free to [contact me](/contact). Links to any articles I may write about these books will be included.
+This is a list of books I own physical copies of!
 
-Books are organised by the author's surname in categories. I might formalize the categories on a future date.
+If you want my opinion on any one of these books, feel free to [send me a message](/contact).
 
 ***
 
@@ -46,7 +46,7 @@ Books are organised by the author's surname in categories. I might formalize the
 - Hawkings, Stevens - *A Brief History of Time*
 - Kirsch, Donald - *The Drug Hunters: The Improbable Quest to Discover New Medicines*
 
-### Philosophy
+### Philosophy/Historical Texts
 - Nietzsche, Friedrich - *Beyond Good and Evil*
 - Author Unknown - 《*三十六计*》
 - 墨子 - 《*墨子*》
