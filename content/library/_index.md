@@ -5,11 +5,9 @@ draft = false
 exclude = true
 +++
 
-#### TODO: Rewrite the E-Book article. 
+This is a list of books I own physical copies of! ([Not including E-Books](/ebooks-h))
 
-This is a list of books I own physical copies of!
-
-If you want my opinion on any one of these books, feel free to [send me a message](/contact).
+If you want my opinion one of these books, feel free to [send me a message](/contact).
 
 ***
 
