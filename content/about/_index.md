@@ -30,7 +30,7 @@ march 30th!
 
 > __camera?__
 
-sony cybershot DSCP8 or my crappy old phone camera
+[sony cybershot DSCP8](https://www.dpreview.com/products/sony/compacts/sony_dscp8/specifications) or my crappy old phone camera
 
 > __what did you create this website with?__
 
