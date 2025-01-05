@@ -1,10 +1,14 @@
-{{ if or .Next .Prev -}}
+{{ if or (and .Next (not .Next.Params.exclude)) (and .Prev (not .Prev.Params.exclude)) }}
 <div id="nextprev">
-{{- with .Prev }}
-<a href="{{ .RelPermalink}}"><div id="prevart">Previous:<br>{{.Title}}</div></a>
-{{ end -}}
-{{- with .Next -}}
-<a href="{{ .RelPermalink}}"><div id="nextart">Next:<br>{{.Title}}</div></a>
-{{ end -}}
+  {{- with .Prev }}
+    {{ if not .Params.exclude }}
+      <a href="{{ .RelPermalink }}"><div id="prevart">Previous:<br>{{ .Title }}</div></a>
+    {{ end }}
+  {{ end -}}
+  {{- with .Next }}
+    {{ if not .Params.exclude }}
+      <a href="{{ .RelPermalink }}"><div id="nextart">Next:<br>{{ .Title }}</div></a>
+    {{ end }}
+  {{ end -}}
 </div>
-{{ end -}}
+{{ end }}

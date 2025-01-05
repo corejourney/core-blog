@@ -34,7 +34,11 @@ march 30th!
 
 > __what did you create this website with?__
 
-[hugo!!!!](https://gohugo.io/) (web framework, I write these pages in a markdown file). Hosted with Github Pages as I cannot afford a server.
+[hugo!!!!](https://gohugo.io/) it's a web framework, I write these pages in a markdown file, with some manual html for some pages. 
+
+> __host?__
+
+hosted with [github pages](https://pages.github.com/) as I cannot afford a server
 
 > __major?__
 

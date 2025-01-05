@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language }}">
+<head>
+	<title>images</title>
+	<link rel="canonical" href="{{ .Site.BaseURL }}">
+	<link rel='alternate' type='application/rss+xml' title="{{ .Site.Title }} RSS" href='/index.xml'>
+	<link rel="stylesheet" href="{{ "style.css" | relURL }}">
+	{{ with .Site.Params.favicon }}<link rel="icon" href="{{ . }}">
+	{{ end -}}
+	<meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
+	{{ if isset .Params "tags" }}<meta name="keywords" content="{{ with .Params.tags }}{{ delimit . ", " }}{{ end }}">
+	{{ end -}}
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="index, follow">
+	<meta charset="utf-8">
+</head>
+<body>
+{{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end -}}
+<main>
+<header><a href="{{ .Site.BaseURL }}"><h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1></a></header>
+<a href="{{ .Site.BaseURL }}"><h1 style="text-align: center; color:rgb(227, 66, 55)">coreimages</h1></a>
+<br>
+
+<style>
+    .gallery-container {
+		border-radius: 0.5rem;
+        width: 100%;
+    }
+    ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+    li img {
+		display: block;
+		height: auto;
+		max-width: 120%;
+	}
+    
+    .gallery-container ul {
+	
+	&.masonry-gallery {
+		columns: 10rem;
+		column-gap: 0.1rem;
+
+		li {
+			break-inside: avoid;
+			margin: 0 0 1rem;
+		}
+	}
+	
+	&.mosaic-gallery {
+		display: flex;
+		flex-wrap: wrap;
+		margin: 0 -0.5rem;
+	}
+    li {
+		background-position: center center;
+		background-size: contain;
+        flex: auto;
+        height: 15vw;
+		margin: 0 0rem 0.5rem;
+		max-height: 10rem;
+	}
+    img {
+		height: 100%;
+        object-fit: contain;
+	}
+}
+
+</style>
+
+<br>
+<p style="text-align: center; font-size: x-large; font-family: Arial, Helvetica, sans-serif;">i post the images that i love here.</p>
+<br>
+
+<div class="gallery-container">
+    {{ if .Params.galleryFolder }}
+        {{ $folder := printf "/%s" .Params.galleryFolder | relURL }}
+        {{ $basePath := printf "static/%s" .Params.galleryFolder }}
+        {{ $images := readDir $basePath }}
+
+		{{ $baseURL := .Site.BaseURL }}
+        <ul class="mosaic-gallery">
+        {{ range $images }}
+            {{ $fileName := lower .Name }}
+            {{ if or (hasSuffix $fileName ".jpg") (hasSuffix $fileName ".png") (hasSuffix $fileName ".gif") (hasSuffix $fileName ".webp") }}
+            <li>
+				<a href="{{ $baseURL }}/pics/gallery/{{ .Name }}" target="_blank">
+                	<img src="{{ $folder }}/{{ .Name }}" alt="" loading="lazy">
+				</a>
+            </li>
+        {{ end }}
+      {{ end }}
+      </ul>
+    {{ else }}
+      <p>No gallery folder defined in the front matter.</p>
+    {{ end }}
+  </div>
+</body>
+</html>

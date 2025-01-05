@@ -1,5 +1,8 @@
 +++
-title = 'Gallery'
-date = 2025-01-05T15:09:03-05:00
-draft = true
+title = 'gallery'
+date = 0000-01-01T22:30:09-04:00
+draft = false
+exclude = true
+layout = "gallery/single"
+galleryFolder = "pics/gallery"
 +++
