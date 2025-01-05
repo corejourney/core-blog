@@ -34,8 +34,11 @@ march 30th!
 
 > __what did you create this website with?__
 
-[hugo!!!!](https://gohugo.io/) (web framework, I write these pages in a markdown file)
+[hugo!!!!](https://gohugo.io/) (web framework, I write these pages in a markdown file). Hosted with Github Pages as I cannot afford a server.
 
+> __major?__
+
+health sciences, going into a medical profession
 ____
 
 ### hobbies and stuff that i like
@@ -60,4 +63,4 @@ If you want to see my playlists, [spotify profile here!!!](https://open.spotify.
 
 - **Sketching:** I like drawing but I am a terrible artist. no I will not show you anything i've drawn.
 
-#### To be updated.
+- **Writing/Journaling:** I like writing about my life and slop
