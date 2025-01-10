@@ -2,12 +2,12 @@
 <div id="nextprev">
   {{- with .Prev }}
     {{ if not .Params.exclude }}
-      <a href="{{ .RelPermalink }}"><div id="prevart">Previous:<br>{{ .Title }}</div></a>
+      <a href="{{ .RelPermalink }}"><div id="prevart"> ← <br>{{ .Title }}</div></a>
     {{ end }}
   {{ end -}}
   {{- with .Next }}
     {{ if not .Params.exclude }}
-      <a href="{{ .RelPermalink }}"><div id="nextart">Next:<br>{{ .Title }}</div></a>
+      <a href="{{ .RelPermalink }}"><div id="nextart"> → <br>{{ .Title }}</div></a>
     {{ end }}
   {{ end -}}
 </div>
