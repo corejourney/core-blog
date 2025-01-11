@@ -51,6 +51,8 @@ ____
 
 - **Reading:** self explanatory I guess. I enjoy both non fiction and fiction. List of books I own [here!!!](/library)
 
+- **Language Learning:** I learn Chinese to not be a family embarassment and Korean because I thought the characters look cool once (true story)
+
 - **Music:** I like distracting myself with music. I don't have a favourite music artist because I'm a coward that can't commit, but my top listened in 2024 was:
 
   - [twikipedia](https://open.spotify.com/artist/2V8aJ7qCArKAmHAX7u81Sj?si=hTMZgmE_Q4yYITebnztC6Q)
