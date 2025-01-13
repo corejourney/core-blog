@@ -12,6 +12,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 ***
 
 ### Fiction and Literature
+- Anderson, Laure - *wintergirls*
 - Atwood, Margaret - *Oryx and Crake*
 - Lowry, Lois - *The Giver*
 - Orwell, George - *1984*
@@ -29,6 +30,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Author Unknown - *The King James Bible (1611)*
 - Author Unknown -《*圣经*》
 - Bible Society - *Chinese-English Bible* 《*华英圣经*》
+- 宁夏人民出版社 - *Selected Stories from the Qura'an* 《*古兰经故事*》 
 
 ### Languages and Dictionaries
 - Jiang, Liping - *Standard Course HSK6A* （上）
@@ -48,5 +50,6 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Nietzsche, Friedrich - *Beyond Good and Evil*
 - Author Unknown - 《*三十六计*》
 - 墨子 - 《*墨子*》
+- 孔子 - 《*孔子论人生：论语新解*》
 - 孙子 - 《*孙子兵法*》
 - 鬼谷子 - 《*鬼谷子*》
