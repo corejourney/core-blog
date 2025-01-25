@@ -24,7 +24,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - 余华 - *To live*《*活着*》
 - 鲁迅 - *A Better Tomorrow* 《*更好的明天*》
 - 莫言 - *Life and Death are Wearing Me Out*《*生死疲劳*》
-- 신경숙 (申京淑) - *Please Look After Mom 엄마를 부탁해* (한글판)
+- 신경숙 (申京淑) - *Please Look After Mom 엄마를 부탁해*
 
 ### Religious Texts and Theology
 - Author Unknown - *The King James Bible (1611)*
@@ -48,6 +48,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 
 ### Philosophy/Historical Texts
 - Nietzsche, Friedrich - *Beyond Good and Evil*
+- Plato - *The Republic*《*理想国*》
 - Author Unknown - 《*三十六计*》
 - 墨子 - 《*墨子*》
 - 孔子 - 《*孔子论人生：论语新解*》

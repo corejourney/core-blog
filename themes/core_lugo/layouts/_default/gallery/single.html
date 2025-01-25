@@ -10,7 +10,7 @@
 	<meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
 	{{ if isset .Params "tags" }}<meta name="keywords" content="{{ with .Params.tags }}{{ delimit . ", " }}{{ end }}">
 	{{ end -}}
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="robots" content="index, follow">
 	<meta charset="utf-8">
 </head>
@@ -66,13 +66,15 @@
 		height: 100%;
         object-fit: contain;
 	}
+
 }
 
 </style>
 
 <br>
-<p style="text-align: center; font-size: x-large; font-family: Arial, Helvetica, sans-serif;">please enjoy</p>
-<p style="text-align: center; font-size: x-large; font-family: Arial, Helvetica, sans-serif;"><a href="{{ .Site.BaseURL }}/mine/">1</a> <a href ="{{ .Site.BaseURL }}/gallery/">2</a></p>
+<p style="text-align: center; font-size: x-large; font-family: Arial, Helvetica, sans-serif;">please enjoy.</p>
+<p style="text-align: center; font-size: x-small; font-family: Arial, Helvetica, sans-serif;">renders best on computer. if you are on mobile, please go horizontal to make it render correctly. (I'll fix it eventually)</p>
+<p style="text-align: center; font-size: x-large; font-family: Arial, Helvetica, sans-serif;"><a href="{{ .Site.BaseURL }}/mine/">1</a> <a href ="{{ .Site.BaseURL }}/music/">2</a></p>
 <br>
 
 <div class="gallery-container">
@@ -87,7 +89,7 @@
             {{ $fileName := lower .Name }}
             {{ if or (hasSuffix $fileName ".jpg") (hasSuffix $fileName ".png") (hasSuffix $fileName ".gif") (hasSuffix $fileName ".webp") }}
             <li>
-				<a href="{{ $baseURL }}/pics/gallery/{{ .Name }}" target="_blank">
+				<a href="{{ $folder }}/{{ .Name }}" target="_blank">
                 	<img src="{{ $folder }}/{{ .Name }}" alt="" loading="lazy">
 				</a>
             </li>

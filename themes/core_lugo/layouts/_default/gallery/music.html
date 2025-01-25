@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language }}">
+<head>
+	<title>images</title>
+	<link rel="canonical" href="{{ .Site.BaseURL }}">
+	<link rel='alternate' type='application/rss+xml' title="{{ .Site.Title }} RSS" href='/index.xml'>
+	<link rel="stylesheet" href="{{ "style.css" | relURL }}">
+	{{ with .Site.Params.favicon }}<link rel="icon" href="{{ . }}">
+	{{ end -}}
+	<meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
+	{{ if isset .Params "tags" }}<meta name="keywords" content="{{ with .Params.tags }}{{ delimit . ", " }}{{ end }}">
+	{{ end -}}
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="index, follow">
+	<meta charset="utf-8">
+</head>
+<body>
+{{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end -}}
+<main>
+<header><a href="{{ .Site.BaseURL }}"><h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1></a></header>
+<a href="{{ .Site.BaseURL }}"><h1 style="text-align: center; color:rgb(227, 66, 55)">music i like</h1></a>
+<br>
+
+<style>
+    .gallery-container {
+		border-radius: 0.5rem;
+        width: 100%;
+    }
+    ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+    li img {
+		display: block;
+		height: auto;
+		max-width: 120%;
+	}
+    
+    .gallery-container ul {
+	
+	&.masonry-gallery {
+		columns: 10rem;
+		column-gap: 0.1rem;
+
+		li {
+			break-inside: avoid;
+			margin: 0 0 1rem;
+		}
+	}
+	
+	&.mosaic-gallery {
+		display: flex;
+		flex-wrap: wrap;
+		margin: 0 -0.5rem;
+	}
+    li {
+		background-position: center center;
+		background-size: contain;
+        flex: auto;
+        height: 15vw;
+		margin: 0 0rem 0.5rem;
+		max-height: 10rem;
+	}
+    img {
+		height: 100%;
+        object-fit: contain;
+	}
+}
+
+</style>
+
+<br>
+<p style="text-align: center; font-size: x-large; font-family: Arial, Helvetica, sans-serif;">please enjoy.</p>
+<p style="text-align: center; font-size: x-small; font-family: Arial, Helvetica, sans-serif;">renders best on computer. if you are on mobile, please go horizontal to make it render correctly. (I'll fix it eventually)</p>
+<p style="text-align: center; font-size: x-large; font-family: Arial, Helvetica, sans-serif;"><a href="{{ .Site.BaseURL }}/mine/">1</a> <a href ="{{ .Site.BaseURL }}/music/">2</a></p>
+<br>
+
+<div class="gallery-container">
+    {{ if .Params.galleryFolder }}
+        {{ $folder := printf "/%s" .Params.galleryFolder | relURL }}
+        {{ $basePath := printf "static/%s" .Params.galleryFolder }}
+        {{ $images := readDir $basePath }}
+
+		{{ $baseURL := .Site.BaseURL }}
+        <ul class="mosaic-gallery">
+        {{ range $images }}
+            {{ $fileName := lower .Name }}
+            {{ if or (hasSuffix $fileName ".jpg") (hasSuffix $fileName ".png") (hasSuffix $fileName ".gif") (hasSuffix $fileName ".webp") }}
+            <li>
+				<a href="{{ $folder }}/{{ .Name }}" target="_blank">
+                	<img src="{{ $folder }}/{{ .Name }}" alt="" loading="lazy">
+				</a>
+            </li>
+        {{ end }}
+      {{ end }}
+      </ul>
+    {{ else }}
+      <p>No gallery folder defined in the front matter.</p>
+    {{ end }}
+</div>
+
+<p></p>
+
+<br><br>
+<div style="margin-left: 5%; margin-right: 5%;">
+	<p style="text-align: center; font-size: large; font-family: Arial, Helvetica, sans-serif;">links to albums/singles (ordered left to right)</p>
+	<br>
+	<ol>
+		<li><a target="_blank" href="https://open.spotify.com/album/6mZadx23YcNdz7tLWG1Gjb?si=UnRXpz5dToms9DaHuIf0dQ">2021 - jequya</a> : hyperpop bs, listened to this all day back in 2022</li> <br>
+		<li><a target="_blank" href="https://open.spotify.com/album/25cqEmaxFEp2QdBjEBIgPL?si=7O8sL8xmQuW84bN4pLcDpw">Cyborg9K - Cyborg9K</a> : very solid, do not know the genre. (kind of rock?) cyborg9k's one of my favourites nonetheless</li> <br>
+		<li><a target="_blank" href="https://open.spotify.com/album/1L4Lz36yZmhmhgpvxyI0p8?si=cC3u9IFZTEW_O2PXv_AOCw">DOom - 최성</a> :  korean indie stuff</li> <br>
+		<li><a target="_blank" href="https://open.spotify.com/album/2VJWNCadN7DfQ3XThbvlUk?si=Oo6Hqu6HQKmKtXvZcWZZIg">flora maniia - Temachii</a> : no idea what the genre is (ethereal?), calming, very good.</li> <br>
+		<li><a target="_blank" href="https://open.spotify.com/album/4Mz0lJQWpCqFQsGMdgh1cI?si=qZt0taxORBGWwvwcJAbhiw">for the rest of your life - twikipedia</a> : my aoty for 2024. kind of similar to parannoul if you know.</li> <br>
+		<li><a target="_blank" href="https://open.spotify.com/album/196Klxh11gaG4QQjzFjH9S?si=i6FB_2evSMu4Jb7D2aIXDA">Gaburger - Gezebelle Gaburgably</a> : absolute peak, no notes </li> <br>
+		<li><a target="_blank" href="https://open.spotify.com/album/2XfaQQmsFw92v1kooahFxg?si=oVU7UJ3-RtCM_roCkMruyg">녹색지대II - 녹색지대</a> : 90s korea music, very nice, underrated. Listen to more in this genre please.</li> <br>
+		<li><a target="_blank" href="https://open.spotify.com/album/5xYru55jzF6B2ycGVVNQwG?si=ebx4rlOMS2WaWfP_iLNDrg">nevermind, the summer. - the neverminds</a> : shoegaze i believe, very good though </li> <br>
+		<li><a target="_blank" href="https://open.spotify.com/track/1uupDYcG6zHJFv5Z0HCZyz?si=c6345157d0f448a8">nthn - i9bonsai</a> : hyperpop. listen to all i9bonsai's stuff please. if you do then I fw you heavy 😌😌😌</li> <br>
+		<li><a target="_blank" href="https://open.spotify.com/track/2pu5xpRoRUDoVwoe1OZesx?si=534707972bd049d5">Please dont stop being sweet to me - lace</a> : beautiful peak, calming etc </li> <br>
+		<li><a target="_blank" href="https://open.spotify.com/track/2Iu4LAgIeauIPndSAe4e9G?si=224941f821934f43">Roadkill - Solya</a> : beautiful, same as above</li> <br>
+		<li><a target="_blank" href="https://open.spotify.com/album/1MWDdYfPnmpToxga3yAzHQ?si=Cm-NqNcoStC026AvOiqSJA">Shabby Star - Billionhappy</a> : chinese rap/hyperpop stuff</li> <br>
+		<li><a target="_blank" href="https://open.spotify.com/album/4n1tg05JN5EY0k7FRRcAir?si=DxDSugOQSd2V4wvxqL0F9g">The Fool - Bladee</a> : drain gang music (fakefan alert!)</li> <br>
+		<li><a target="_blank" href="https://open.spotify.com/album/629QY8wPi1kvsjrNmFx10W?si=OcLtY8jSRwGDGkHcvCg5Xw">Today I Laid Down - bl4ck m4rket c4rt</a> : slowcore, beautiful, rip bl4ck m4rket c4rt 🫠</li> <br>
+		<li><a target="_blank" href="https://open.spotify.com/album/1JE3TUcdq74PbVe3mPiOmM?si=-6LI2_cYT-KqoLNvZEPP3w">Viator - Jack Stauber</a> : used to listen to this all the time back in 2020</li> <br>
+		<li><a target="_blank" href="https://open.spotify.com/album/4EUgMqEUpNIDOtE9xzWnof?si=uKpdyrkUSF22bd6rPkqngQ">我醒着做梦 - Jacky Cheung</a> : peak chinese pop music, (i love jacky cheung)</li> <br>
+		<li><a target="_blank" href="https://open.spotify.com/album/7Mz3AROK1ffsZhTMaFCdvv?si=NJ9XjFlWRoy88yeGI-v6XQ">wetdream - WillyRodrigeuzWasTaken</a> : if you know/listen to this i love you 100% 🙇</li> <br>
+		<li><a target="_blank" href="https://open.spotify.com/album/5jh34RcXpFNggGi5l61c1b?si=nZXps8PCQta2QyTct0DbCQ">Whipper & Hornet - Huachuca Aerostat</a> : rock music band, i like</li> <br>
+		<li><a target="_blank" href="https://open.spotify.com/album/2yFNsDxkUzgTQShdW2IXDG?si=dxWFwk0uS2CsHIEyhGPEpA">&lt;3 - Window Seat</a> : slowcore, beautiful!</li> <br>
+		<li><a target="_blank" href="https://open.spotify.com/album/5IPiwxiTbZGlBmPvNaa8WU?si=hiUmMOW2TGqhSxfkv-cmhQ">余波 - 卧轨的火车 (Railway Suicide Train)</a> : great music to look out the window for. slow n calming. fortunately it's chinese! 😁😁</li> <br>
+	</ol>
+</div>
+
+
+</body>
+</html>

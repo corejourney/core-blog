@@ -34,7 +34,7 @@ march 30th!
 
 > __what did you create this website with?__
 
-[hugo!(https://gohugo.io/) it's a web framework,these pages are written in a markdown file, with some manual html for some pages. 
+[hugo!](https://gohugo.io/) it's a web framework, these pages are written in a markdown file, with some manual html for some pages. 
 
 > __host?__
 
@@ -54,13 +54,8 @@ ____
 - **Language Learning:** I learn Chinese to not be a family embarassment and Korean because I thought the characters look cool once (true story)
 	- I would love to start another language. Maybe Latin or Japanese?
 
-- **Music:** I like distracting myself with music. I don't have a favourite music artist because I'm a coward that can't commit, but my top listened in 2024 was:
-
-  - [twikipedia](https://open.spotify.com/artist/2V8aJ7qCArKAmHAX7u81Sj?si=hTMZgmE_Q4yYITebnztC6Q)
-  - [i9bonsai](https://open.spotify.com/artist/7dqb1363wqRxJw9RfgQeo3?si=VUQYdG5lRWKe6MNeomsItw)
-  - [Gezebelle Gaburgably](https://open.spotify.com/artist/2dAr2VXRbboq3vymg20Jtw?si=8LPdGvoNSuqBnLatCHzzaA)
-
-If you want to see my playlists, [spotify profile here!!!](https://open.spotify.com/user/1np8ok67bcb7imcaurqbeinm8?si=176dd7af90b14e2b)
+- **Music:** Some stuff I enjoy can be found [here](/music) (might not render correctly on phone, im tryna fix it 😇)
+  - If you want to see my playlists, [spotify profile here!!!](https://open.spotify.com/user/1np8ok67bcb7imcaurqbeinm8?si=176dd7af90b14e2b)
 
 - **Nightwalking:** I love walking late at night because it is more peaceful. Also places tend to look more pretty at night anyways
 
