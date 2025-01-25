@@ -1,5 +1,5 @@
 +++
-title = 'Teach yourself Chinese as an ABC!'
+title = 'teach yourself chinese as an ABC!'
 date = 2024-11-01T11:20:05-04:00
 draft = false
 tags = ["💡Tutorial", "🈶Language"]

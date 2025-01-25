@@ -1,5 +1,5 @@
 +++
-title = 'My Opinion on E-Books'
+title = 'my opinion on e-books'
 date = 2025-01-02T20:01:21-04:00
 draft = false
 tags = ["🧑Personal", "🚶‍♀️Lifestyle", "🤭Opinion"]

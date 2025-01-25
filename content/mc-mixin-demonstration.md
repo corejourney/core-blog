@@ -1,5 +1,5 @@
 +++
-title = 'A Minecraft Fabric Mixin Demonstration'
+title = 'a minecraft fabric mixin demonstration'
 date = 2024-10-12T22:12:52-04:00
 draft = false
 tags = ["💡Tutorial", "💻Technology"]

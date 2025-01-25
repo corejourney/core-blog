@@ -22,7 +22,7 @@ if you found this website, then probably
 
 > __why do you act like that irl?__
 
-i'm sorry
+sorry
 
 > __birthday?__
 
@@ -34,7 +34,7 @@ march 30th!
 
 > __what did you create this website with?__
 
-[hugo!!!!](https://gohugo.io/) it's a web framework, I write these pages in a markdown file, with some manual html for some pages. 
+[hugo!(https://gohugo.io/) it's a web framework,these pages are written in a markdown file, with some manual html for some pages. 
 
 > __host?__
 
@@ -42,16 +42,17 @@ hosted with [github pages](https://pages.github.com/) as I cannot afford a serve
 
 > __major?__
 
-health sciences, going into a medical profession
+health sciences, trying to become a pharmacist
 ____
 
-### hobbies and stuff that i like
+### stuff that i like doing
 
 ㅤ
 
 - **Reading:** self explanatory I guess. I enjoy both non fiction and fiction. List of books I own [here!!!](/library)
 
 - **Language Learning:** I learn Chinese to not be a family embarassment and Korean because I thought the characters look cool once (true story)
+	- I would love to start another language. Maybe Latin or Japanese?
 
 - **Music:** I like distracting myself with music. I don't have a favourite music artist because I'm a coward that can't commit, but my top listened in 2024 was:
 
@@ -67,6 +68,6 @@ If you want to see my playlists, [spotify profile here!!!](https://open.spotify.
 
 - **Programming:** this is something I definitely don't do very often anymore but i self-taught myself programming as a kid who spent too much time online. am i any good at it? no idea!
 
-- **Sketching:** I like drawing but I am a terrible artist. no I will not show you anything i've drawn.
+- **Writing/Journaling:** I definitely recommend just keeping a place to write down your thoughts and I must say it has helped me a lot. 
 
-- **Writing/Journaling:** I like writing about my life and slop
+probably more but I can't think of any right now
