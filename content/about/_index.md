@@ -14,7 +14,7 @@ ____
 
 > __where are you from?__
 
-ethnically chinese, spent most of my life in canada
+ethnically chinese, spend most of my life in canada
 
 > __do i know you irl?__
 
@@ -49,20 +49,13 @@ ____
 
 ㅤ
 
-- **Reading:** self explanatory I guess. I enjoy both non fiction and fiction. List of books I own [here!!!](/library)
+- **Reading** 
+- **Language Learning:** Chinese and Korean
+- **Music** [music page](/music)
+- **Nightwalking**
+- **Photo** [some of them here](/mine)
+- **Programming**
+- **Writing/Journaling**
+- **Cooking**
 
-- **Language Learning:** I learn Chinese to not be a family embarassment and Korean because I thought the characters look cool once (true story)
-	- I would love to start another language. Maybe Latin or Japanese?
-
-- **Music:** Some stuff I enjoy can be found [here](/music) (might not render correctly on phone, im tryna fix it 😇)
-  - If you want to see my playlists, [spotify profile here!!!](https://open.spotify.com/user/1np8ok67bcb7imcaurqbeinm8?si=176dd7af90b14e2b)
-
-- **Nightwalking:** I love walking late at night because it is more peaceful. Also places tend to look more pretty at night anyways
-
-- **Photography:** I like taking pictures of landscapes. Usually on said nightwalks. Yes, photos on this website are taken by me.
-
-- **Programming:** this is something I definitely don't do very often anymore but i self-taught myself programming as a kid who spent too much time online. am i any good at it? no idea!
-
-- **Writing/Journaling:** I definitely recommend just keeping a place to write down your thoughts and I must say it has helped me a lot. 
-
-probably more but I can't think of any right now
+Probably more
