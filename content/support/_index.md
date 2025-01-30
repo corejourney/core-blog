@@ -1,7 +1,7 @@
 +++
 title = 'ㅤsupport'
 date = 0000-01-01T18:02:44-04:00
-draft = false
+draft = true
 exclude = true
 +++
 If you would like to support anything I do, feel free to send me some Monero. All coins are held by a non-custodial wallet and are secure.

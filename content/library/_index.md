@@ -12,8 +12,9 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 ***
 
 ### Fiction and Literature
-- Anderson, Laure - *wintergirls*
+- Anderson, Laurie - *Wintergirls*
 - Atwood, Margaret - *Oryx and Crake*
+- Dostoevsky, Fyodor - *White Nights*
 - Lowry, Lois - *The Giver*
 - Orwell, George - *1984*
 - Orwell, George - *Animal Farm*

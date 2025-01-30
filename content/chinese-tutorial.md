@@ -5,7 +5,6 @@ draft = false
 tags = ["💡Tutorial", "🈶Language"]
 +++
 
-
 If you are not aware, ABC (*American Born Chinese*) are people who are born and largely raised in the United States. The term does not include all Chinese immigrants that have American citizenship, but more with people of Chinese ethnicity that identify with western culture more deeply than Chinese culture.
 
 As a person who (loosely) falls into this category, I feel I have the ability to help any ABC individuals who seek to learn Chinese. 
@@ -21,9 +20,6 @@ But to learn any language, you must still learn the basics! This means understan
 If you have parents or relatives that know the language, practice speaking with them! I guarantee that most Chinese parents want their children to know Chinese, and would be glad to help you. Having real world practice provided to you for free is an advantage that many do not get.
 
 Alternatively, if you live in a big city, you can consider visiting the Chinese enclave of your specific area. You can always find someone to chat in Chinese, is the point. 
-
-### consooooom
-This definitely applies to every language, but this is doubly true for Chinese. To effectively learn, you must consume content in Chinese. You can't just learn 5 words everyday and expect to be able to speak. Learning a language is much more a marathon than a sprint. As long as you are making progress, you're doing it right.
 
 ## how far can i go?
 I moved abroad when I was relatively young. For a long time, my Chinese ability stayed frozen in time where my ability did not exceed that of a kindergarderner. I started relearning it when I was around 16, basically from scratch (from chracters, pinyin, all that), because I wanted to communicate with my relatives more effectively. 
