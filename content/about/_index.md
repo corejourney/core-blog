@@ -16,10 +16,6 @@ ____
 
 ethnically chinese, spend most of my life in canada
 
-> __do i know you irl?__
-
-if you found this website, then probably
-
 > __why do you act like that irl?__
 
 sorry
@@ -58,4 +54,4 @@ ____
 - **Writing/Journaling**
 - **Cooking**
 
-Probably more
+Probably more can't think of any

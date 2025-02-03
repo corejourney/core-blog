@@ -1,5 +1,5 @@
 +++
-title = "ㅤlibrary"
+title = "ㅤbooks"
 date = 0000-01-01T18:02:44-04:00
 draft = false
 exclude = true
@@ -14,6 +14,8 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 ### Fiction and Literature
 - Anderson, Laurie - *Wintergirls*
 - Atwood, Margaret - *Oryx and Crake*
+- Atwood, Margaret - *The Handmaid's Tale*
+- Dazai, Osamu - *No Longer Human* 《人间失格》
 - Dostoevsky, Fyodor - *White Nights*
 - Lowry, Lois - *The Giver*
 - Orwell, George - *1984*
@@ -25,6 +27,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - 余华 - *To live*《*活着*》
 - 鲁迅 - *A Better Tomorrow* 《*更好的明天*》
 - 莫言 - *Life and Death are Wearing Me Out*《*生死疲劳*》
+- 苏小懒 - *Our Very Last Song* 《*我们的最终曲*》
 - 신경숙 (申京淑) - *Please Look After Mom 엄마를 부탁해*
 
 ### Religious Texts and Theology
@@ -48,9 +51,11 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Kirsch, Donald - *The Drug Hunters: The Improbable Quest to Discover New Medicines*
 
 ### Philosophy/Historical Texts
+- Marcus Aurelius - *The Meditations* 《*沉思录*》（英中双语版）
 - Nietzsche, Friedrich - *Beyond Good and Evil*
 - Plato - *The Republic*《*理想国*》
 - Author Unknown - 《*三十六计*》
+- 鲁海 - 《*青岛旧事*》
 - 墨子 - 《*墨子*》
 - 孔子 - 《*孔子论人生：论语新解*》
 - 孙子 - 《*孙子兵法*》

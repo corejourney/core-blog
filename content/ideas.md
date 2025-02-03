@@ -43,3 +43,7 @@ when bro 29 years old and they still post on they instagram story :laugh:
 full grown adult eating pizza
 
 oomphf roll call to make sure they haven't offed themselves
+
+I swear everyone I know has one birthday a year
+
+people be like “im a professional hater” and the hating is just making fun of fat and ugly people
