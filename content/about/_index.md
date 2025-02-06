@@ -24,10 +24,6 @@ sorry
 
 march 30th!
 
-> __camera?__
-
-[sony cybershot DSCP8](https://www.dpreview.com/products/sony/compacts/sony_dscp8/specifications) or my crappy old phone camera
-
 > __what did you create this website with?__
 
 [hugo!](https://gohugo.io/) it's a web framework, these pages are written in a markdown file, with some manual html for some pages. 
