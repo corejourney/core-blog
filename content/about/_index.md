@@ -10,7 +10,7 @@ welcome to my website! this website will be dedicated to articles containing my 
 
 ____
 
-### FAQ
+### basic info
 
 > __where are you from?__
 
@@ -34,7 +34,7 @@ hosted with [github pages](https://pages.github.com/) as I cannot afford a serve
 
 > __major?__
 
-health sciences, trying to become a pharmacist
+health sciences, trying to become a doctor
 ____
 
 ### stuff that i like doing
@@ -46,7 +46,7 @@ ____
 - **Music** [music page](/music)
 - **Nightwalking**
 - **Photo** [some of them here](/mine)
-- **Programming**
+- **Programming** (I deleted my old github)
 - **Writing/Journaling**
 - **Cooking**
 
