@@ -111,6 +111,12 @@ h3 {
 	font-size: large;
 }
 
+#no-center {
+	text-align: left;
+	color: greenyellow;
+	font-size: large;
+}
+
 #base-url {
 	color: whitesmoke;
 	text-decoration: none;

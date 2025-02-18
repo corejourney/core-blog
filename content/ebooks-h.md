@@ -2,7 +2,7 @@
 title = 'my opinion on e-books'
 date = 2025-01-02T20:01:21-04:00
 draft = false
-tags = ["🧑Personal", "🚶‍♀️Lifestyle", "🤭Opinion"]
+tags = ["🧑Personal", "🚶‍♀️Lifestyle", "😎Opinion"]
 +++
 
 One annoying trend in the technology age is the push for everything to be done online. Here's why I still prefer buying physical books rather than buying technically cheaper e-books.

@@ -15,6 +15,8 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Anderson, Laurie - *Wintergirls*
 - Atwood, Margaret - *Oryx and Crake*
 - Atwood, Margaret - *The Handmaid's Tale*
+- Austen, Jane - *Pride and Prejudice* 《傲慢月偏见》
+- Bronte, Emily - *Wuthering Heights* 《咆哮山莊》
 - Dazai, Osamu - *No Longer Human* 《人间失格》
 - Dostoevsky, Fyodor - *White Nights*
 - Lowry, Lois - *The Giver*
@@ -28,6 +30,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - 鲁迅 - *A Better Tomorrow* 《*更好的明天*》
 - 莫言 - *Life and Death are Wearing Me Out*《*生死疲劳*》
 - 苏小懒 - *Our Very Last Song* 《*我们的最终曲*》
+- 苏小懒 - *Their Soap Opera* 《*他们的肥皂剧*》
 - 신경숙 (申京淑) - *Please Look After Mom 엄마를 부탁해*
 
 ### Religious Texts and Theology
@@ -42,6 +45,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - 商务印书店 -《*新华汉语词典*》
 
 ### Biographies and Histories
+- Eckel, Malcolm - *Buddhism: Origins, Beliefs, Practices, Holy Texts and Sacred Places*
 - Keefe, Patrick - *Empire of Pain: The Secret History of the Sackler Dynasty*
 - Short, Philip - *Mao: A Life, Chinese Translation*《*毛泽东传中文版*》
 
@@ -49,6 +53,8 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Freeman, Walter - *Physchosurgery:  Intelligence, Emotion and Social Behavior Following Prefrontal Lobotomy for Mental Disorders*
 - Hawkings, Stevens - *A Brief History of Time*
 - Kirsch, Donald - *The Drug Hunters: The Improbable Quest to Discover New Medicines*
+- Maslow, A.H - *A Theory of Human Motivation*
+- Mastenbjork and Meloni - *Pharmacology Review: A Comprehensive Reference Guide for Medical, Nursing and Paramedic Students*
 
 ### Philosophy/Historical Texts
 - Marcus Aurelius - *The Meditations* 《*沉思录*》（英中双语版）
