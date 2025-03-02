@@ -7,17 +7,15 @@ tags = ["💻Technology", "💡Tutorial"]
 
 ## internet ads are wasteful.
 
-**this is a small suggestion to use an adblocker if you don't have one for whatever reason.**
-
 I would be mostly okay with advertising on the internet if it was even advertising useful products. 
 
-However, you probably already know that 99% of ads are pushing some gimmick product or service that would probably be used once or twice before being discarded forever. The ad itself may even be so infuriating that The money spent on internet advertising is quite wasteful ultimately.
+However, you probably already know that 99% of ads are pushing some gimmick product or service that would probably be used once or twice before being discarded forever. Many advertisements are also so infuriating that it sometimes even ruins my mood completely.
 
-Additionally, all the trackers, cookies and advertisments put on your laptop is legitimately insane. A page that should at most take one megabyte of bandwidth to load may **take up to eight megabytes**, which doesn't sound like much but can seriously slow down the speed in which the website loads, espicially if you have a slow internet connection. 
+Additionally, all the trackers, cookies and advertisments put on your laptop is legitimately insane. A page that should at most load in 1 second can take double, quintuple, eight times the amount time to load, which doesn't sound like much but can seriously slow down the speed in which the website loads, espicially if you have a slow internet connection. 
 
 In fact, if you typically do not use an adblocker but come across a website with no advertisements (such as this one), you may be suprised at how fast it loads.
 
-**if a website has anti-adblock, you can just simply turn the adblock off. there's no reason to not have one no matter how much you love convenience.**
+**seriously, as an internet user, no matter how casual, there's really no reason not to be doing this. you will be gaining so many hours of your life back.**
 
 ### what i use
 
