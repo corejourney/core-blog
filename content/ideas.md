@@ -4,6 +4,9 @@ date = 2024-09-29T17:36:57-04:00
 draft = true
 +++
 
+NEED TO SEPERATE SLIGHTLY EDITED + HEAVILY EDITED PHOTOS
+
+
 articles: article in chinese. idk the content.
 
 throwing stones at satan

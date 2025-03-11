@@ -5,7 +5,9 @@ draft = false
 tags = ["🧑Personal", "🚶‍♀️Lifestyle", "😎Opinion"]
 +++
 
-One annoying trend in the technology age is the push for everything to be done online. Here's why I still prefer buying physical books rather than buying technically cheaper e-books.
+#### Edit 2025/03/11: minor grammar + format corrections.
+
+One annoying trend in the technology age is the push for everything to be done online. This has now extended to books. Here's why I still prefer physical copies of books even if they're more expensive.
 
 ![library](/pics/library.JPG)
 
@@ -24,12 +26,14 @@ All of these disadvantages would be fine in my eyes if physical books made for a
 
 ### i already spend too much time online...
 
-To be honest, the main reason why I dislike e-books is because it already extends my horribly long screen time. 
+To be honest, the main reason why I dislike e-books is because it already extends my horribly long screen time. I already believe that I spend too much of my time looking at a screen. I don't need my reading time exacerbating my rapidly decreasing attention span. 
 
-I used to cope and say that e-books were completely unusable but they aren't. E-books are a neccessary evil for authors who either can't afford to publish physical or people looking to read for cheap, so don't take my opinion as an attack on e-book readers.
+I used to cope and say that e-books were completely unusable but they aren't. Don't take my opinion as an attack on e-book readers. To be honest, I am indifferent to the way that others read. It's for this same reason that I'm ambivalent to a format like audiobooks as well.
 
-#### **to be honest, i find e-book companies who basically gatekeep PDF files as a business model far more distasteful
+**i.e. it's just something primal in my brain that rejects reading a story on a phone or kindle.**
 
-### #uselesscrapnoonecaresaboutaward
+#### **i find e-book companies who basically gatekeep PDF files as a business model far more distasteful anyhow.
 
-For what its worth, buying physical has just made reading a far more enjoyable experience for me and if you share similar mindsets with me, I recommend doing the same.
+If you want to find PDFs of books (for free!), websites like [Annas Archive](https://annas-archive.org/) are very valueable. This website in particular has a wealth of books from every book genre.
+
+For what its worth, buying physical has just made reading a far more enjoyable (and doable) experience for me and if you share similar mindsets with me, I recommend doing the same.

@@ -5,8 +5,6 @@ draft = true
 tags = ["😎Opinion"]
 +++
 
-
-
 - {{< h3 id="no-center">}}Too obssessed with relationships{{< /h3 >}}
 
 It's not that serious. I promise.
