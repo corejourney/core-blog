@@ -19,6 +19,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Bronte, Emily - *Wuthering Heights* 《咆哮山莊》
 - Dazai, Osamu - *No Longer Human* 《人间失格》
 - Dostoevsky, Fyodor - *White Nights*
+- Dostoevsky, Fyodor - *Crime and Punishment*
 - Lowry, Lois - *The Giver*
 - Orwell, George - *1984*
 - Orwell, George - *Animal Farm*
@@ -30,7 +31,6 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - 鲁迅 - *A Better Tomorrow* 《*更好的明天*》
 - 莫言 - *Life and Death are Wearing Me Out*《*生死疲劳*》
 - 苏小懒 - *Our Very Last Song* 《*我们的最终曲*》
-- 苏小懒 - *Their Soap Opera* 《*他们的肥皂剧*》
 - 신경숙 (申京淑) - *Please Look After Mom 엄마를 부탁해*
 
 ### Religious Texts and Theology

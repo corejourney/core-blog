@@ -2,7 +2,7 @@
 title = 'self-improvement content pmo'
 date = 2025-03-02T12:01:24-05:00
 draft = false
-tags = ["😎Opinion", "🚶‍♀️Lifestyle"]
+tags = ["😎Opinion", "Lifestyle"]
 +++
 
 Today I will be writing about some aspects about modern self-improvement content and if they are actually helping people. I believe that many of them promote a sort of illusion of change.

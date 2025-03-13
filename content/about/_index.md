@@ -39,15 +39,24 @@ ____
 
 ### stuff that i like doing
 
-ㅤ
-
-- **Reading** 
-- **Language Learning:** Chinese and Korean
-- **Music** [music page](/music)
+- **Reading:** [books i own](/books) 
+  
+- **Language Learning:** Chinese (to make my parents proud), Cantonese (sounds cool) and Korean (thought the characters looked cool)
+- **Music:** [music page](/music)
+  
 - **Nightwalking**
-- **Photo** [some of them here](/mine)
-- **Programming** (I deleted my old github)
-- **Writing/Journaling**
-- **Cooking**
 
-Probably more can't think of any
+- **Spending too much time online**
+
+- **Hiking**
+  
+- **Photos** [some of them here](/mine)
+  
+- **Programming** (I deleted my old github)
+  
+- **Writing/Journaling:** [read my blogposts](/journal)
+  
+- **Cooking:** I used to do this more but not anymore
+
+
+**Probably more can't think of any**
