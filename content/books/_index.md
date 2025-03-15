@@ -15,7 +15,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Anderson, Laurie - *Wintergirls*
 - Atwood, Margaret - *Oryx and Crake*
 - Atwood, Margaret - *The Handmaid's Tale*
-- Austen, Jane - *Pride and Prejudice* 《傲慢月偏见》
+- Austen, Jane - *Pride and Prejudice* 《傲慢与偏见》
 - Bronte, Emily - *Wuthering Heights* 《咆哮山莊》
 - Dazai, Osamu - *No Longer Human* 《人间失格》
 - Dostoevsky, Fyodor - *White Nights*
@@ -51,6 +51,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 
 ### Science and Medicine
 - Freeman, Walter - *Physchosurgery:  Intelligence, Emotion and Social Behavior Following Prefrontal Lobotomy for Mental Disorders*
+- Gawande, Atul - *Being Mortal: Medicine and What Matters in the End*
 - Hawkings, Stevens - *A Brief History of Time*
 - Kirsch, Donald - *The Drug Hunters: The Improbable Quest to Discover New Medicines*
 - Maslow, A.H - *A Theory of Human Motivation*

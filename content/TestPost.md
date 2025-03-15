@@ -13,5 +13,3 @@ pretend i left a image here
 *get ready to listen and learn buddy*
 
 > this is a green text
-
-***this is just like the epic site. i love this.***
