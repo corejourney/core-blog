@@ -1,7 +1,7 @@
 body {
 	font-family: sans-serif ;
 	/* background: #1b1b1b; */
-	background: #1b1b1b;
+	background: #121212;
 	color: #ccc ;
 }
 
@@ -33,7 +33,7 @@ blockquote {
 	list-style: none;
 	padding: 0;
 	margin: 0;
-	background-color: #1b1b1b;
+	background-color: #121212;
   }
 
   .icon-menu li {
