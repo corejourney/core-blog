@@ -5,6 +5,8 @@ draft = false
 tags = ["💻Technology", "💡Tutorial"]
 +++
 
+#### Edit 2025/03/15: added a link.
+
 ## internet ads are wasteful.
 
 I would be mostly okay with advertising on the internet if it was even advertising useful products. 
@@ -19,11 +21,11 @@ In fact, if you typically do not use an adblocker but come across a website with
 
 ### what i use
 
-- I made the effort to switch to [Firefox](https://www.mozilla.org/en-CA/firefox/new/)
+#### I recommend just using Firefox. Google Chrome is fine, but I believe they still do some suspicious advertisement tracker stuff anyways.
 
-#### Google Chrome is fine, but I believe they still do some suspicious advertisement tracker stuff anyways.
+If you are unsure on how to add web browser extensions, here are tutorials for [Google Chrome](https://www.wikihow.com/Add-Extensions-in-Google-Chrome) and [Firefox](https://www.howtogeek.com/719529/how-to-install-extensions-add-ons-in-mozilla-firefox/). Remember to always do your own due diligence before haphazardly installing potentially malevolent extensions.
 
-Additionally, I use these extensions
+I personally use these extensions.
 
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) (!Works for Youtube!)
 - [I still don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/) (blocks those cookies popups when visiting sites)
