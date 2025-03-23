@@ -29,6 +29,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Wilde, Oscar - *The Picture of Dorian Gray*
 - 余华 - *To live*《*活着*》
 - 鲁迅 - *A Better Tomorrow* 《*更好的明天*》
+- 鲁迅 - *The Real Story of Ah Q* 《*阿Q正传*》
 - 莫言 - *Life and Death are Wearing Me Out*《*生死疲劳*》
 - 苏小懒 - *Our Very Last Song* 《*我们的最终曲*》
 - 신경숙 (申京淑) - *Please Look After Mom 엄마를 부탁해*

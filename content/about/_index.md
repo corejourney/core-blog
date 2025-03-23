@@ -51,6 +51,8 @@ ____
   
 - **Going through it**
 
+- **Chinese Calligraphy**
+
 - **Hiking**
   
 - **Photos** [some of them here](/mine)
