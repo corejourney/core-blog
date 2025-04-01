@@ -20,6 +20,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Dazai, Osamu - *No Longer Human* 《人间失格》
 - Dostoevsky, Fyodor - *White Nights*
 - Dostoevsky, Fyodor - *Crime and Punishment*
+- Ishiguro, Kazuo - *Never Let Me Go*
 - Lowry, Lois - *The Giver*
 - Orwell, George - *1984*
 - Orwell, George - *Animal Farm*
@@ -59,8 +60,10 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Mastenbjork and Meloni - *Pharmacology Review: A Comprehensive Reference Guide for Medical, Nursing and Paramedic Students*
 
 ### Philosophy/Historical Texts
-- Marcus Aurelius - *The Meditations* 《*沉思录*》（英中双语版）
+- Aurelius, Marcus - *The Meditations* 《*沉思录*》（英中双语版）
+- Camus, Albert - *The Myth of Sisyphus*
 - Nietzsche, Friedrich - *Beyond Good and Evil*
+- Kierkegaard, Søren - *Either/Or* 
 - Plato - *The Republic*《*理想国*》
 - Author Unknown - 《*三十六计*》
 - 鲁海 - 《*青岛旧事*》
@@ -68,3 +71,4 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - 孔子 - 《*孔子论人生：论语新解*》
 - 孙子 - 《*孙子兵法*》
 - 鬼谷子 - 《*鬼谷子*》
+- 庄子 - *Zhuāngzǐ: The Complete Writings* 《*庄子*》
