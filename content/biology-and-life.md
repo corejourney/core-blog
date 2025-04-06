@@ -2,14 +2,14 @@
 title = 'biology and the purpose of life'
 date = 2025-03-23T08:31:56-04:00
 draft = true
-tags = ["😎Opinion"]
+tags = ["😎Opinion", "🚶‍♀️Lifestyle"]
 +++
 
 I hate, and I mean *hate* when someone uses the phrase
 
 > Biology says the main purpose of life is to reproduce, bro!!!
 
-I hate it. Not only because it's flat out wrong, But also because such a phrase is always used disingenously to justify some weird prejudice certain people have about wishing to be childless.
+This phrase, and the family of glib expressions it belongs to, is always used disingenously to justify strange prejudices certain people have about.
 
 ## first of all: It's not the purpose of life.
 
