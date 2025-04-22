@@ -1,6 +1,6 @@
 +++
 title = 'biology and the purpose of life'
-date = 2025-03-23T08:31:56-04:00
+date = 2025-04-07T08:31:56-04:00
 draft = true
 tags = ["😎Opinion", "🚶‍♀️Lifestyle"]
 +++
@@ -9,7 +9,7 @@ I hate, and I mean *hate* when someone uses the phrase
 
 > Biology says the main purpose of life is to reproduce, bro!!!
 
-This phrase, and the family of glib expressions it belongs to, is always used disingenously to justify strange prejudices certain people have about.
+This phrase, and the family of glib expressions it belongs to, is always used disingenously to condescend towards people with alternative.
 
 ## first of all: It's not the purpose of life.
 
@@ -40,7 +40,7 @@ All those words to say, *you don't actually believe that statement*. I've notice
 
 *It isn't natural blah blah blah...*
 
-Finding a lifestyle choice *such as choosing to be childless* odd is completely fine. Really. But one should be honest and just express such feelings. One  can even say that they'll never understand such a lifestyle. In a society where reproduction is very much the expectation, this can be normal viewpoint. I do not think that it is worth it to pointlessly argue about others social values when they probably won't change anyways.
+Finding a lifestyle choice *such as choosing to be childless* odd is completely fine. Really. But one should be honest and just express such feelings. One  can even say that they'll never understand such a lifestyle. In a society where reproduction is very much the expectation, this can be an acceptable viewpoint. I do not think that it is worth it to pointlessly argue about others social values when they probably won't change anyways.
 
 But I would much prefer honesty over a pseudoscientific one-liner which makes both of us feel like idiots.
 

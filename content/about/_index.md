@@ -12,9 +12,17 @@ ____
 
 ### basic info
 
-> __\> basic info?__
+> __\> where?__
 
-ethnically chinese. grew up in canada (GTA area). 5'6. studying to be a doctor.
+ethnically chinese. grew up in canada (GTA area).
+
+> __\> what are u studying?__
+
+pre-med, trying to be a doctor
+
+> __\> height?__
+
+around 5'6.
 
 > __\> why do you act like that irl?__
 
@@ -28,9 +36,7 @@ march 30th!
 
 [hugo!](https://gohugo.io/) it's a web framework, these pages are written in a markdown file, with some manual html for some pages. I bought the domain for like 15 dollars on [namecheap](https://www.namecheap.com).
 
-> __\> are you employed?__
 
-no 💔💔💔
 
 > __\> host?__
 
@@ -42,22 +48,19 @@ ____
 
 - **Reading:** [books i own](/books) 
   
-- **Language Learning:** Chinese (to make my parents proud), Cantonese (sounds cool) and Korean (thought the characters looked cool)
+- **Language Learning:** Chinese (to make my parents proud), Cantonese (sounds cool), Korean (thought the characters looked cool) Latin (trying it out!)
+  
 - **Listening to Music:** [music page](/music)
-  
-- **Nightwalking**
-
-- **Spending too much time online**
-  
-- **Going through it**
-
+    
 - **Chinese Calligraphy**
 
-- **Hiking**
+- **Going outside:** I am the walker
   
-- **Photos** [some of them here](/mine)
+- **Photos:** [some of them here](/mine)
   
-- **Programming** (I deleted my old github)
+- **Programming:** (I deleted my old github but I can do it probably)
+
+- **~~Competitive Swimming~~** (Quit) 
   
 - **Writing/Journaling:** [read my blogposts](/journal)
   

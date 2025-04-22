@@ -15,9 +15,10 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Anderson, Laurie - *Wintergirls*
 - Atwood, Margaret - *Oryx and Crake*
 - Atwood, Margaret - *The Handmaid's Tale*
-- Austen, Jane - *Pride and Prejudice* 《傲慢与偏见》
-- Bronte, Emily - *Wuthering Heights* 《咆哮山莊》
-- Dazai, Osamu - *No Longer Human* 《人间失格》
+- Austen, Jane - *Pride and Prejudice* 《*傲慢与偏见*》
+- Bronte, Emily - *Wuthering Heights* 《*咆哮山莊*》
+- Chbosky, Stephen - *the perks of being a wallflower*
+- Dazai, Osamu - *No Longer Human* 
 - Dostoevsky, Fyodor - *White Nights*
 - Dostoevsky, Fyodor - *Crime and Punishment*
 - Ishiguro, Kazuo - *Never Let Me Go*
@@ -29,7 +30,6 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Tolstoy, Leo - *What Men Live By*
 - Wilde, Oscar - *The Picture of Dorian Gray*
 - 余华 - *To live*《*活着*》
-- 鲁迅 - *A Better Tomorrow* 《*更好的明天*》
 - 鲁迅 - *The Real Story of Ah Q* 《*阿Q正传*》
 - 莫言 - *Life and Death are Wearing Me Out*《*生死疲劳*》
 - 苏小懒 - *Our Very Last Song* 《*我们的最终曲*》
@@ -44,11 +44,13 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 ### Languages and Dictionaries
 - Jiang, Liping - *Standard Course HSK6A* （上）
 - Jiang, Liping - *Standard Course HSK6B* （下）
+- Traupman, John - *Latin and English Dictionary: Revised and Updated*
 - 商务印书店 -《*新华汉语词典*》
 
 ### Biographies and Histories
 - Eckel, Malcolm - *Buddhism: Origins, Beliefs, Practices, Holy Texts and Sacred Places*
 - Keefe, Patrick - *Empire of Pain: The Secret History of the Sackler Dynasty*
+- Plutarch - *Fall of the Roman Republic* (Trans. Warner, Rex)
 - Short, Philip - *Mao: A Life, Chinese Translation*《*毛泽东传中文版*》
 
 ### Science and Medicine
@@ -58,6 +60,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Kirsch, Donald - *The Drug Hunters: The Improbable Quest to Discover New Medicines*
 - Maslow, A.H - *A Theory of Human Motivation*
 - Mastenbjork and Meloni - *Pharmacology Review: A Comprehensive Reference Guide for Medical, Nursing and Paramedic Students*
+- Mukherjee, Siddhartha - *The Emperor of All Maladies* 《*众病之王*》
 
 ### Philosophy/Historical Texts
 - Aurelius, Marcus - *The Meditations* 《*沉思录*》（英中双语版）
