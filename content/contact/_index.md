@@ -7,6 +7,6 @@ exclude = true
 
 ![thorny field](/pics/thornyfield.png)
 ## Contact Information
-- Email: zijing@tutamail.com
+- Email: zijing@tutamail.com (Serious inquiries only please)
 - Spotify: [zijing](https://open.spotify.com/user/1np8ok67bcb7imcaurqbeinm8?si=176dd7af90b14e2b)
-- Instagram: [zjing.ag](https://www.instagram.com/zijing.ag/)
+- Instagram: [zjing.ag](https://www.instagram.com/zijing.ag/) (I check this one the most)

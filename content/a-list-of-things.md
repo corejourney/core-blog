@@ -33,7 +33,7 @@ Things I want to be (Not delusional at all btw):
 - Doctor
 - Biologist
 - Chemist
-- Writer
+- Writing
 - Good at video editing
 - Visual Artist
 - Musician

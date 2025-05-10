@@ -19,16 +19,21 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Bronte, Emily - *Wuthering Heights* 《*咆哮山莊*》
 - Chbosky, Stephen - *the perks of being a wallflower*
 - Dazai, Osamu - *No Longer Human* 
+- Defoe, Daniel - *Robinson Crusoe*
 - Dostoevsky, Fyodor - *White Nights*
 - Dostoevsky, Fyodor - *Crime and Punishment*
 - Ishiguro, Kazuo - *Never Let Me Go*
 - Lowry, Lois - *The Giver*
+- Murakami, Haruki - *1Q84: The Complete Trilogy*
+- Murakami, Haruki - *Norweigen Wood* 《挪威的森林》（林少花 译）
 - Orwell, George - *1984*
 - Orwell, George - *Animal Farm*
+- Plath, Slyvia - *The Bell Jar*
 - Shelley, Mary - *Frankenstein*
 - Tolstoy, Leo - *How Much Land Does a Man Need?*
 - Tolstoy, Leo - *What Men Live By*
 - Wilde, Oscar - *The Picture of Dorian Gray*
+- Woolf, Virginia - *The Waves*
 - 余华 - *To live*《*活着*》
 - 鲁迅 - *The Real Story of Ah Q* 《*阿Q正传*》
 - 莫言 - *Life and Death are Wearing Me Out*《*生死疲劳*》
@@ -74,4 +79,4 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - 孔子 - 《*孔子论人生：论语新解*》
 - 孙子 - 《*孙子兵法*》
 - 鬼谷子 - 《*鬼谷子*》
-- 庄子 - *Zhuāngzǐ: The Complete Writings* 《*庄子*》
+- 庄子 - *Zhuāngzǐ: The Complete Writings* 《*庄子*》(Trans. Fraser, Chris)

@@ -22,7 +22,7 @@ pre-med, trying to be a doctor
 
 > __\> height?__
 
-around 5'6.
+around 5'x. still deciding.
 
 > __\> why do you act like that irl?__
 
