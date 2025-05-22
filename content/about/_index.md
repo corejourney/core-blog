@@ -48,7 +48,7 @@ ____
 
 - **Reading:** [books i own](/books) 
   
-- **Language Learning:** Chinese (to make my parents proud), Cantonese (sounds cool), Korean (thought the characters looked cool) Latin (trying it out!)
+- **Language Learning:** Chinese (to make my parents proud), Korean (thought the characters looked cool) Latin (trying it out!)
   
 - **Listening to Music:** [music page](/music)
     
