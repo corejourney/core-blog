@@ -80,3 +80,5 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - 孙子 - 《*孙子兵法*》
 - 鬼谷子 - 《*鬼谷子*》
 - 庄子 - *Zhuāngzǐ: The Complete Writings* 《*庄子*》(Trans. Fraser, Chris)
+- 墨子 - *The Essential Mòzi*《*墨子*》(Trans. Fraser, Chris)
+
