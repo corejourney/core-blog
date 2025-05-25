@@ -32,6 +32,6 @@ Do people want *more* internet slop?
 
 ### What is the purpose of any of this?
 
-Obviously all the questions I've asked in this post are rhetorical. In my opinion, this sort of technology is developed by out-of-touch big tech companies that don't stop to consider if their 'innovations' are actually useful for anyone but scammers, lazy artists and big tech companies looking to lay off more of their workers.
+Obviously all the questions I've asked in this post are rhetorical. In my opinion, this sort of technology is developed by out-of-touch big tech companies that don't stop to consider if their 'innovations' are actually useful for anyone but scammers, lazy artists, deep-fake porn creeps and big tech companies looking to lay off more of their workers.
 
 But it is a genuine curiosity I have, so feel free to educate me. For anyone who really sees the utility in audio-visual generative AI, I'll ask again: **What purpose could Generative AI genuinely serve?**
