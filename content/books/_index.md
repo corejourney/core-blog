@@ -22,10 +22,13 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Defoe, Daniel - *Robinson Crusoe*
 - Dostoevsky, Fyodor - *White Nights*
 - Dostoevsky, Fyodor - *Crime and Punishment*
+- Hesse, Herman - *Siddharta*
+- Homer - *The Iliad* (Trans. Emily Wilson)
 - Ishiguro, Kazuo - *Never Let Me Go*
 - Lowry, Lois - *The Giver*
+- Maugham, Somerset - *Of Human Bondage*
 - Murakami, Haruki - *1Q84: The Complete Trilogy*
-- Murakami, Haruki - *Norweigen Wood* 《挪威的森林》（林少花 译）
+- Murakami, Haruki - *Norweigen Wood* 《*挪威的森林*》（林少花 译）
 - Orwell, George - *1984*
 - Orwell, George - *Animal Farm*
 - Plath, Slyvia - *The Bell Jar*
@@ -34,28 +37,30 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Tolstoy, Leo - *What Men Live By*
 - Wilde, Oscar - *The Picture of Dorian Gray*
 - Woolf, Virginia - *The Waves*
-- 余华 - *To live*《*活着*》
+- 余华 - *To Live*《*活着*》
 - 鲁迅 - *The Real Story of Ah Q* 《*阿Q正传*》
-- 莫言 - *Life and Death are Wearing Me Out*《*生死疲劳*》
-- 苏小懒 - *Our Very Last Song* 《*我们的最终曲*》
+- 莫言 -《*生死疲劳*》
+- 沈复 -《*浮生六记*》
 - 신경숙 (申京淑) - *Please Look After Mom 엄마를 부탁해*
 
 ### Religious Texts and Theology
 - Author Unknown - *The King James Bible (1611)*
 - Author Unknown -《*圣经*》
 - Bible Society - *Chinese-English Bible* 《*华英圣经*》
+- 中国基督教协会出版 - 《*讚美詩*》
 - 宁夏人民出版社 - *Selected Stories from the Qura'an* 《*古兰经故事*》 
 
 ### Languages and Dictionaries
 - Jiang, Liping - *Standard Course HSK6A* （上）
 - Jiang, Liping - *Standard Course HSK6B* （下）
+- Ørberg, Hans - *Lingua Latina Per Se Illustrata Pars I: Familia Romana*
 - Traupman, John - *Latin and English Dictionary: Revised and Updated*
 - 商务印书店 -《*新华汉语词典*》
 
 ### Biographies and Histories
 - Eckel, Malcolm - *Buddhism: Origins, Beliefs, Practices, Holy Texts and Sacred Places*
 - Keefe, Patrick - *Empire of Pain: The Secret History of the Sackler Dynasty*
-- Plutarch - *Fall of the Roman Republic* (Trans. Warner, Rex)
+- Plutarch - *Fall of the Roman Republic* (Trans. Rex Warner)
 - Short, Philip - *Mao: A Life, Chinese Translation*《*毛泽东传中文版*》
 
 ### Science and Medicine
@@ -79,6 +84,6 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - 孔子 - 《*孔子论人生：论语新解*》
 - 孙子 - 《*孙子兵法*》
 - 鬼谷子 - 《*鬼谷子*》
-- 庄子 - *Zhuāngzǐ: The Complete Writings* 《*庄子*》(Trans. Fraser, Chris)
-- 墨子 - *The Essential Mòzi*《*墨子*》(Trans. Fraser, Chris)
+- 庄子 - *Zhuāngzǐ: The Complete Writings* 《*庄子*》(Trans. Chris Fraser and others)
+- 墨子 - *The Essential Mòzi*《*墨子*》(Trans. Chris Fraser and others)
 
