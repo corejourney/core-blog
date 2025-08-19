@@ -12,33 +12,33 @@ ____
 
 ### basic info
 
-> __\> where?__
+> __\> WHERE?__
 
-ethnically chinese. grew up in canada (GTA area).
+Ethnically chinese. I grew up in Canada (GTA area).
 
-> __\> what are u studying?__
+> __\> WHAT ARE YOU STUDYING?__
 
-pre-med, trying to be a doctor
+Pre-med, trying to be a doctor
 
-> __\> height?__
+> __\> HEIGHT?__
 
-around 5'x. still deciding.
+Around 5'x. Still deciding.
 
 > __\> why do you act like that irl?__
 
 sorry
 
-> __\> what do you look like?__
+> __\> WHAT DO YOU LOOK LIKE?__
 
 [[expand]]()
 
-> __\> birthday?__
+> __\> BIRTHDAY?__
 
-march 30th!
+March 30th!
 
-> __\> what did you create this website with?__
+> __\> HOW DID YOU MAKE THIS WEBSITE?__
 
-[hugo!](https://gohugo.io/) it's a web framework, these pages are written in a markdown file, with some manual html for some pages. I bought the domain for like 15 dollars on [namecheap](https://www.namecheap.com).
+[Hugo!](https://gohugo.io/) it's a web framework, these pages are written in a markdown file, with some manual html for some pages. I bought the domain for like 15 dollars on [namecheap](https://www.namecheap.com).
 
 
 ____

@@ -1,8 +1,7 @@
 body {
 	font-family: sans-serif ;
 	/* background: #1b1b1b; */
-	/* background: #121212; */
-	background: rgb(238, 236, 236);
+	background: #121212;
 	color: #ccc ;
 }
 
@@ -34,7 +33,7 @@ blockquote {
 	list-style: none;
 	padding: 0;
 	margin: 0;
-	background-color: rgb(245, 241, 241)f;
+	background-color: #121212;
   }
 
   .icon-menu li {
@@ -59,15 +58,15 @@ blockquote {
   }
 
   .icon-menu a:hover {
-	border: #5a99dd;
+	border: #007bff;
   }
 
 em {
-	color: rgb(119, 111, 111);
+	color: rgb(204, 190, 190);
 }
 
 a {
-	color: #5c6ce8;
+	color: #5ce8d5;
 	text-decoration: none;
 }
 
@@ -94,7 +93,7 @@ img {
 
 li {
 	font-family: 'Times New Roman', Times, serif;
-	color: rgb(33, 32, 32);
+	color: whitesmoke;
 }
 
 .section_header {
@@ -108,7 +107,7 @@ h2 {
 
 h3 {
 	text-align: center;
-	color: rgb(30, 209, 99);
+	color: greenyellow;
 	font-size: large;
 }
 
@@ -125,7 +124,7 @@ h3 {
 
 p {
 	font-family: 'Times New Roman', Times, serif;
-	color: rgb(16, 16, 16);
+	color: whitesmoke;
 }
 
 header h1 {
@@ -134,7 +133,7 @@ header h1 {
 
 h1 {
 	text-align: center ;
-	color: rgb(221, 36, 22);
+	color: rgb(227, 66, 55);
 	font-size: xx-large;
 	font-family: Garamond, serf;
 }
