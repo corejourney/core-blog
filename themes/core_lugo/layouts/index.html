@@ -27,7 +27,7 @@
 <ul class="icon-menu">
 	<li><a href="{{ .Site.BaseURL }}/about" title="about me"><img src="/pics/about.png">  </a></li>
 	<li><a href="{{ .Site.BaseURL }}/contact" title="contact info"><img src="/pics/letter.png">  </a></li>
-	<!-- <li><a href="{{ .Site.BaseURL }}/mine" title="image collection"><img src="/pics/images.png">  </a></li> -->
+	<li><a href="{{ .Site.BaseURL }}/mine" title="image collection"><img src="/pics/images.png">  </a></li>
 	<li><a href="{{ .Site.BaseURL }}/journal" title="journal entries"><img src="/pics/journal.png">  </a></li>
 	<li><a href="{{ .Site.BaseURL }}/books" title="books i have and appreciate"><img src="/pics/library.svg"> </a></li>
 	<li><a href="{{ .Site.BaseURL }}/support" title="money"><img src="/pics/piggy.svg">  </a></li>
@@ -41,6 +41,33 @@
 {{ if .Param "nextprev" }}{{ partial "nextprev.html" . -}}{{ end -}}
 {{ if .Param "taglist" }}{{ partial "taglist.html" . }}{{ end -}}
 </article>
+
+<style>
+	#scroll {
+		text-align: center;
+		font-family: Georgia;
+		font-size: 14px;
+		font-weight: 300;
+	}
+</style>
+
+<br> <br> <br> <br>
+<p id="scroll">
+	This page was last updated on August 21 2025.<br>
+	I'm on version 2.0.1! But you don't care about that.<br>
+	Disclaimer: The mobile version is always a work in progress. <br>
+	Please be patient. <br>
+	The coolest book I own is a 1908 Antique of <a href="https://en.wikipedia.org/wiki/Aeneid" target="_blank">Vergil's Aeneid</a>! <br>
+	I normally use a <a href="https://en.wikipedia.org/wiki/MacBook_Air#Retina_(2018%E2%80%932020)" target="_blank">2020 MacBook Air</a> but I also use a Chinese <a href="https://en.wikipedia.org/wiki/Lenovo_ThinkPad_X220" target="_blank">ThinkPad X220</a>. <br>
+	7月2025年，曾经跟父母去青岛旅游 <br>
+	Without even a last goodbye? (R.I.P) <br>
+	I believe in a Free Palestine + End to Zionism 🇵🇸<br>
+	I do not like cars or infrastructure that encourage their decadence. <br>
+	<a href="https://woguidehuoche.bandcamp.com/album/-" target="_blank">余波</a> <br>
+	<a href="https://twikipedia.bandcamp.com/album/for-the-rest-of-your-life" target="_blank">for the rest of your life</a> <br>
+	nīl dēspērandum... <br>
+	Don't forget the icons? <br>
+</p>
 
 <br>
 

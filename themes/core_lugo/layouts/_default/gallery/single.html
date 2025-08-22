@@ -4,7 +4,7 @@
 	<title>images</title>
 	<link rel="canonical" href="{{ .Site.BaseURL }}">
 	<link rel='alternate' type='application/rss+xml' title="{{ .Site.Title }} RSS" href='/index.xml'>
-	<link rel="stylesheet" href="{{ "style.css" | relURL }}">
+	<!-- <link rel="stylesheet" href="{{ "style.css" | relURL }}"> -->
 	{{ with .Site.Params.favicon }}<link rel="icon" href="{{ . }}">
 	{{ end -}}
 	<meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
@@ -18,87 +18,44 @@
 {{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end -}}
 <main>
 <header><a href="{{ .Site.BaseURL }}"><h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1></a></header>
-<a href="{{ .Site.BaseURL }}"><h1 style="text-align: center; color:rgb(227, 66, 55)">images</h1></a>
-<br>
+<a href="{{ .Site.BaseURL }}"><h1 style="text-align: center; color: whitesmoke">images</h1></a>
 
 <style>
-    .gallery-container {
-		border-radius: 0.5rem;
-        width: 100%;
-    }
-    ul {
-		list-style: none;
-		margin: 0;
-		padding: 0;
+	a {
+		text-decoration:  none;
+		color: none;
 	}
-    li img {
-		display: block;
-		height: auto;
-		max-width: 100%;
+	p {
+		color: whitesmoke;
 	}
-    
-    .gallery-container ul {
-	
-	&.masonry-gallery {
-		columns: 10rem;
-		column-gap: 0.1rem;
-
-		li {
-			break-inside: avoid;
-			margin: 0 0 1rem;
-		}
+	h1 {
+		font-family: fantasy, papyrus;
 	}
-	
-	&.mosaic-gallery {
-		display: flex;
-		flex-wrap: wrap;
-		margin: 0 -0.5rem;
+	body {
+		background-color: rgb(11, 11, 11);
 	}
-    li {
-		background-position: center center;
-		background-size: contain;
-        flex: auto;
-        height: 25vw;
-		margin: 0 0rem 0.5rem;
-		max-height: 10rem;
+	img {
+		width:456px;
+		height: 342px;
 	}
-    img {
-		height: 100%;
-        object-fit: contain;
-	}
-
-}
-
 </style>
 
-<br>
-<p style="text-align: center; font-size: x-large; font-family: Arial, Helvetica, sans-serif;">please enjoy.</p>
-<p style="text-align: center; font-size: x-small; font-family: Arial, Helvetica, sans-serif;">renders best on computer. if you are on mobile, please go horizontal to make it render correctly. (I'll fix it eventually)</p>
-<p style="text-align: center; font-size: x-large; font-family: Arial, Helvetica, sans-serif;"><a href="{{ .Site.BaseURL }}/mine/">photo</a> <a href ="{{ .Site.BaseURL }}/music/">music</a></p>
-<br>
+<p style="text-align: center; font-size: 16px; font-family: fantasy, papyrus;">these are placeholders waiting for the real thing</p>
+<p style="text-align: center; font-size: 14px; font-family: fantasy, papyrus;">also check out <a href="{{ .Site.BaseURL }}/wip.html">music</a></p>
 
-<div class="gallery-container">
-    {{ if .Params.galleryFolder }}
-        {{ $folder := printf "/%s" .Params.galleryFolder | relURL }}
-        {{ $basePath := printf "static/%s" .Params.galleryFolder }}
-        {{ $images := readDir $basePath }}
-
-		{{ $baseURL := .Site.BaseURL }}
-        <ul class="mosaic-gallery">
-        {{ range $images }}
-            {{ $fileName := lower .Name }}
-            {{ if or (hasSuffix $fileName ".jpg") (hasSuffix $fileName ".png") (hasSuffix $fileName ".gif") (hasSuffix $fileName ".webp") }}
-            <li>
-				<a href="{{ $folder }}/{{ .Name }}" target="_blank">
-                	<img src="{{ $folder }}/{{ .Name }}" alt="" loading="lazy">
-				</a>
-            </li>
-        {{ end }}
-      {{ end }}
-      </ul>
-    {{ else }}
-      <p>No gallery folder defined in the front matter.</p>
-    {{ end }}
-  </div>
+<table>
+	<tr>
+		<td><div><img src="/pics/other/cworkplace.png"></div></td>
+		<td><div><img src="/pics/other/roads.png"></div></td>
+		<td><div><img src="/pics/other/thebridged.png"></div></td>
+		<td><div><img src="/pics/other/nightfield.png"></div></td>
+	</tr>
+	<tr>
+		<td><div><img src="/pics/other/peak1.png"></div></td>
+		<td><div><img src="/pics/other/zefalls.png"></div></td>
+		<td><div><img src="/pics/other/road_noisetest.png"></div></td>
+		<td><div><img src="/pics/other/zerozerotest.png"></div></td>
+	</tr>
+</table>
 </body>
 </html>

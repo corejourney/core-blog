@@ -3,6 +3,7 @@ body {
 	/* background: #1b1b1b; */
 	/* background: #121212; */
 	background: rgb(238, 236, 236);
+
 	color: #ccc ;
 }
 
@@ -34,7 +35,10 @@ blockquote {
 	list-style: none;
 	padding: 0;
 	margin: 0;
-	background-color: rgb(245, 241, 241)f;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: rgb(232, 226, 226);
+	border: 1px solid rgb(214, 204, 204);
   }
 
   .icon-menu li {

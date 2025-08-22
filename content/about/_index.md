@@ -1,5 +1,5 @@
 +++
-title = 'ㅤabout'
+title = 'ㅤme'
 date = 0000-01-01T18:02:44-04:00
 draft = false
 exclude = true
@@ -12,31 +12,31 @@ ____
 
 ### basic info
 
-> __\> WHERE?__
+__\> WHERE?__
 
 Ethnically chinese. I grew up in Canada (GTA area).
 
-> __\> WHAT ARE YOU STUDYING?__
+__\> WHAT ARE YOU STUDYING?__
 
 Pre-med, trying to be a doctor
 
-> __\> HEIGHT?__
+__\> HEIGHT?__
 
 Around 5'x. Still deciding.
 
-> __\> why do you act like that irl?__
+__\> why do you act like that irl?__
 
 sorry
 
-> __\> WHAT DO YOU LOOK LIKE?__
+__\> WHAT DO YOU LOOK LIKE?__
 
 [[expand]]()
 
-> __\> BIRTHDAY?__
+__\> BIRTHDAY?__
 
 March 30th!
 
-> __\> HOW DID YOU MAKE THIS WEBSITE?__
+__\> HOW DID YOU MAKE THIS WEBSITE?__
 
 [Hugo!](https://gohugo.io/) it's a web framework, these pages are written in a markdown file, with some manual html for some pages. I bought the domain for like 15 dollars on [namecheap](https://www.namecheap.com).
 
@@ -55,7 +55,7 @@ ____
 
 - **Going outside:** Believe it or not
   
-- **Photos:** [some of them here](/wip.html)
+- **Photos:** [some of them here](/mine)
     
 - **Writing:** [read my blogposts](/journal)
 

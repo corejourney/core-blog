@@ -8,12 +8,12 @@ exclude = true
 **I only have a few requests:** \
 DO NOT ADVERTISE STUFF TO ME \
 DO NOT WASTE MY TIME \
-DO NOT BE WEIRD (YOU WILL GET BLOCKED!)
+DO NOT BE WEIRD (YOU WILL GET BLOCKED!) \
+DO NOT BE MEAN (It'll hurt my feelings)
 
 &nbsp;
 
 ## Contact Information
 - Email: zijing@tutamail.com (Serious inquiries only please)
-- Spotify: [zijing](https://open.spotify.com/user/1np8ok67bcb7imcaurqbeinm8?si=176dd7af90b14e2b)
 - Instagram: [zjing.cgu](https://www.instagram.com/zijing.cgu/) (I check this one the most)
 - Goodreads: [zijing](https://www.goodreads.com/user/show/171137026-zijing)
