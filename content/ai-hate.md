@@ -1,7 +1,7 @@
 +++
 title = 'avoid generative ai like the plague.'
-date = 2025-08-20T00:48:25-04:00
-draft = true
+date = 2025-08-22T00:48:25-04:00
+draft = false
 +++
 
 #### This is a continuation of my [previous post](/video-ai-generation), which you may check out at your own pleasure. This is more of an informal essay-style post so the formatting might be off. Sorry.
