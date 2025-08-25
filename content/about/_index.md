@@ -20,9 +20,6 @@ __\> WHAT ARE YOU STUDYING?__
 
 Pre-med, trying to be a doctor
 
-__\> HEIGHT?__
-
-Around 5'x. Still deciding.
 
 __\> why do you act like that irl?__
 
