@@ -7,6 +7,12 @@ body {
 	color: #ccc ;
 }
 
+@font-face {
+  font-family: CenturyExpanded;
+  src: url(cer.otf);
+}
+
+
 .website_link {
 	color: #5ce8d5;
 	text-decoration: none;
@@ -72,6 +78,7 @@ em {
 
 a {
 	color: #5c6ce8;
+	font-family: CenturyExpanded;
 	text-decoration: none;
 }
 
@@ -108,12 +115,14 @@ li {
 h2 {
 	text-align: center;
 	color: #248bda;
+	font-family: CenturyExpanded;
 }
 
 h3 {
 	text-align: center;
 	color: rgb(30, 209, 99);
 	font-size: large;
+	font-family: CenturyExpanded;
 }
 
 #no-center {
@@ -128,7 +137,7 @@ h3 {
 }
 
 p {
-	font-family: 'Times New Roman', Times, serif;
+	font-family: CenturyExpanded;
 	color: rgb(16, 16, 16);
 }
 
@@ -140,7 +149,7 @@ h1 {
 	text-align: center ;
 	color: rgb(221, 36, 22);
 	font-size: xx-large;
-	font-family: Garamond, serf;
+	font-family: CenturyExpanded;
 }
 
 footer {
