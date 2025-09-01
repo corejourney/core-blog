@@ -12,8 +12,8 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 ***
 
 ### Fiction and Literature
+- Author Unknown - *The Three Kingdoms Volumes 1,2,3* (Trans. Yu Sumei)
 - Anderson, Laurie - *Wintergirls*
-- Atwood, Margaret - *Oryx and Crake*
 - Atwood, Margaret - *The Handmaid's Tale*
 - Austen, Jane - *Pride and Prejudice* 《*傲慢与偏见*》
 - Bronte, Emily - *Wuthering Heights* 《*咆哮山莊*》
@@ -22,7 +22,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Defoe, Daniel - *Robinson Crusoe*
 - Dostoevsky, Fyodor - *White Nights*
 - Dostoevsky, Fyodor - *Crime and Punishment*
-- Hesse, Herman - *Siddharta*
+- Hesse, Herman - *Siddharta & Demain*
 - Homer - *The Iliad* (Trans. Emily Wilson)
 - Ishiguro, Kazuo - *Never Let Me Go*
 - Lowry, Lois - *The Giver*
@@ -34,14 +34,15 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Plath, Slyvia - *The Bell Jar*
 - Shelley, Mary - *Frankenstein*
 - Tolstoy, Leo - *How Much Land Does a Man Need?*
-- Tolstoy, Leo - *What Men Live By*
 - Wilde, Oscar - *The Picture of Dorian Gray*
 - Woolf, Virginia - *The Waves*
+- Woolf, Virginia - *To The Lighthouse*
+- 曹雪芹 著，無名氏 續， 馮其庸 評，- 《*瓜飯樓重校評批紅樓夢*》 （上，中，下）
 - 余华 - *To Live*《*活着*》
 - 鲁迅 - *The Real Story of Ah Q* 《*阿Q正传*》
 - 莫言 -《*生死疲劳*》
 - 沈复 -《*浮生六记*》
-- 신경숙 (申京淑) - *Please Look After Mom 엄마를 부탁해*
+- 신경숙 (申京淑) - *엄마를 부탁해*
 
 ### Religious Texts and Theology
 - Author Unknown - *The King James Bible (1611)*
