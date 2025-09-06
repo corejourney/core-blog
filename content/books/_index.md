@@ -20,11 +20,13 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Chbosky, Stephen - *the perks of being a wallflower*
 - Dazai, Osamu - *No Longer Human* 
 - Defoe, Daniel - *Robinson Crusoe*
-- Dostoevsky, Fyodor - *White Nights*
 - Dostoevsky, Fyodor - *Crime and Punishment*
+- Dostoevsky, Fyodor - *Notes from Underground*
+- Dostoevsky, Fyodor - *White Nights*
 - Hesse, Herman - *Siddharta & Demain*
 - Homer - *The Iliad* (Trans. Emily Wilson)
 - Ishiguro, Kazuo - *Never Let Me Go*
+- Kang, Han - *The White Book* (Trans. Smith, Deborah)
 - Lowry, Lois - *The Giver*
 - Maugham, Somerset - *Of Human Bondage*
 - Murakami, Haruki - *1Q84: The Complete Trilogy*
@@ -39,7 +41,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Woolf, Virginia - *To The Lighthouse*
 - 曹雪芹 著，無名氏 續， 馮其庸 評，- 《*瓜飯樓重校評批紅樓夢*》 （上，中，下）
 - 余华 - *To Live*《*活着*》
-- 鲁迅 - *The Real Story of Ah Q* 《*阿Q正传*》
+- 鲁迅 -《*阿Q正传*》
 - 莫言 -《*生死疲劳*》
 - 沈复 -《*浮生六记*》
 - 신경숙 (申京淑) - *엄마를 부탁해*
