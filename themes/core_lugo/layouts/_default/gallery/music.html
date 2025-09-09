@@ -22,92 +22,85 @@
 <br>
 
 <style>
-    .gallery-container {
-		border-radius: 0.5rem;
-        width: 100%;
-    }
-    ul {
-		list-style: none;
-		margin: 0;
-		padding: 0;
-	}
-    li img {
-		display: block;
-		height: auto;
-		max-width: 120%;
-	}
-    
-    .gallery-container ul {
-	
-	&.masonry-gallery {
-		columns: 10rem;
-		column-gap: 0.1rem;
 
-		li {
-			break-inside: avoid;
-			margin: 0 0 1rem;
-		}
-	}
-	
-	&.mosaic-gallery {
-		display: flex;
-		flex-wrap: wrap;
-		margin: 0 -0.5rem;
-	}
-    li {
-		background-position: center center;
-		background-size: contain;
-        flex: auto;
-        height: 15vw;
-		margin: 0 0rem 0.5rem;
-		max-height: 10rem;
-	}
-    img {
-		height: 100%;
-        object-fit: contain;
-	}
+.titleleft {
+	text-align: left;
+}
+
+.titleright {
+	text-align: right;
+}
+
+.imageleft {
+	width: 200px; height: auto; float: right;  margin: 0 0 0 15px;
+}
+
+.imageright {
+	width: 200px; height: auto; float: left;  margin: 0 0 0 0px;
+}
+
+.paragraph-text {
+	font-size: small; 
+	text-decoration: none; 	
+	color: rgb(16, 16, 16); 
+	font-weight: 400;
+}
+
+.margin-div {
+	margin-bottom: 190px;
 }
 
 </style>
 
 <br>
-<p style="text-align: center; font-size: x-large; font-family: Arial, Helvetica, sans-serif;">please enjoy.</p>
-<p style="text-align: center; font-size: x-small; font-family: Arial, Helvetica, sans-serif;">renders best on computer. if you are on mobile, please go horizontal to make it render correctly. (I'll fix it eventually)</p>
-<p style="text-align: center; font-size: x-large; font-family: Arial, Helvetica, sans-serif;"><a href="{{ .Site.BaseURL }}/mine/">photo</a> <a href ="{{ .Site.BaseURL }}/music/">music</a></p>
 <br>
 
-<div class="gallery-container">
-    {{ if .Params.galleryFolder }}
-    	{{ $folder := printf "/%s" .Params.galleryFolder | relURL }}
-    	{{ $basePath := printf "static/%s" .Params.galleryFolder }}
-    	{{ $images := readDir $basePath }}
-    	{{ $imageLinks := .Params.imageLinks }}
-
-    	<ul class="mosaic-gallery">
-    	{{ range $images }}
-        	{{ $fileName := lower .Name }}
-        	{{ if or (hasSuffix $fileName ".jpg") (hasSuffix $fileName ".png") (hasSuffix $fileName ".gif") (hasSuffix $fileName ".webp") }}
-            	{{ $imageLink := index $imageLinks $fileName | default (printf "%s/%s" $folder .Name) }}
-            	<li>
-                	<a href="{{ $imageLink }}" target="_blank">
-                    	<img src="{{ $folder }}/{{ .Name }}" alt="" loading="lazy">
-                	</a>
-            	</li>
-        	{{ end }}
-    	{{ end }}
-    	</ul>
-	{{ else }}
-    	<p>No gallery folder defined in the front matter.</p>
-	{{ end }}
+<div class="margin-div">
+	<h3 class="titleleft">
+		for the rest of your life - twikipedia
+		
+		<img src="/pics/music/fortherestofyourlife.jpg" class="imageleft">
+		<p class="paragraph-text">
+			words cannot express fawnfwanfjanwjfn wanfjkwanfjknwakjnf wjfnwkawnnfwjanfjn <br>
+			cannot
+		</p>
+	</h3>
 </div>
 
-<p></p>
-
-<br>
-<div style="margin-left: 5%; margin-right: 5%;">
-	<p style="text-align: center; font-size: large; font-family: Arial, Helvetica, sans-serif;">the images = links</p>
-	<br>
+<div class="margin-div">
+	<h3 class="titleright">
+		余波 - 卧轨的火车
+		
+		<img src="/pics/music/yupao.png" class="imageright">
+		<p class="paragraph-text">
+			That's something that can never happen
+		</p>
+	</h3>
 </div>
+
+<div class="margin-div">
+	<h3 class="titleleft">
+		your life is meaningless lol - drug bug
+		
+		<img src="/pics/music/yourlifeismeaningless.jpg" class="imageleft">
+		<p class="paragraph-text">
+			words cannot express fawnfwanfjanwjfn wanfjkwanfjknwakjnf wjfnwkawnnfwjanfjn <br>
+			cannot
+		</p>
+	</h3>
+</div>
+
+**todo include happy smile, bl4ck m4rket c4rt, chestnut bakery (diaries)
+
+<div style="margin-bottom: 400px;">
+	<h3 class="titleleft">Miscellaneous artists I didn't bother writing about (but I enjoy)</h3>
+	<li>
+		<ul><p></p></ul>
+	</li>
+</div>
+
+
+</p>
 
 
 </body>
