@@ -12,6 +12,12 @@ body {
   src: url(cer.otf);
 }
 
+@font-face {
+  font-family: Akwe;
+  src: url(akwe.ttf);
+}
+
+
 
 .website_link {
 	color: #5ce8d5;
