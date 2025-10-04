@@ -1,5 +1,5 @@
 +++
-title = 'ㅤme'
+title = 'ㅤmyname'
 date = 0000-01-01T18:02:44-04:00
 draft = false
 exclude = true
@@ -55,5 +55,7 @@ ____
 - **Photos:** [some of them here](/mine)
     
 - **Writing:** [read my blogposts](/journal)
+
+- **Drawing:** I'm the absolute worst at this rn but I'll get better
 
 **Probably more can't think of any**

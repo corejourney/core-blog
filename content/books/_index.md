@@ -27,6 +27,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Homer - *The Iliad* (Trans. Emily Wilson)
 - Ishiguro, Kazuo - *Never Let Me Go*
 - Kang, Han - *The White Book* (Trans. Smith, Deborah)
+- Lispector, Clarice - *Água Viva* (Trans. Tobler, Stefan)
 - Lowry, Lois - *The Giver*
 - Maugham, Somerset - *Of Human Bondage*
 - Murakami, Haruki - *1Q84: The Complete Trilogy*
@@ -54,6 +55,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - 宁夏人民出版社 - *Selected Stories from the Qura'an* 《*古兰经故事*》 
 
 ### Languages and Dictionaries
+- Fairclough–Brown - *Virgil's Aeneid: The Students' Series of Latin Classics*
 - Jiang, Liping - *Standard Course HSK6A* （上）
 - Jiang, Liping - *Standard Course HSK6B* （下）
 - Ørberg, Hans - *Lingua Latina Per Se Illustrata Pars I: Familia Romana*
@@ -79,7 +81,8 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Aurelius, Marcus - *The Meditations* 《*沉思录*》（英中双语版）
 - Camus, Albert - *The Myth of Sisyphus*
 - Nietzsche, Friedrich - *Beyond Good and Evil*
-- Kierkegaard, Søren - *Either/Or* 
+- Kierkegaard, Søren - *Either/Or*
+- Pessoa, Fernando - *The Book of Disquiet* (Trans. Zenith, Richard)
 - Plato - *The Republic*《*理想国*》
 - Author Unknown - 《*三十六计*》
 - 鲁海 - 《*青岛旧事*》

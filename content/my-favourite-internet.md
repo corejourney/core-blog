@@ -2,7 +2,7 @@
 title = 'my favourite internet image'
 date = 2025-09-06T09:18:23-04:00
 draft = false
-tags = ["🧑Personal", "✏️Writing"]
+tags = ["🧑Personal", "✏️Essay"]
 +++
 
 #### It's been a while...
