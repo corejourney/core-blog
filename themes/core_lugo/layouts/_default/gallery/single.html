@@ -18,7 +18,7 @@
 {{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end -}}
 <main>
 <header><a href="{{ .Site.BaseURL }}"><h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1></a></header>
-<a href="{{ .Site.BaseURL }}"><h1 style="text-align: center; color: whitesmoke">photographs</h1></a>
+<a href="{{ .Site.BaseURL }}"><h1 style="text-align: center; color: whitesmoke"></h1></a>
 
 <style>
 	a {
@@ -40,7 +40,7 @@
 	}
 </style>
 
-<p style="text-align: center; font-size: 16px; font-family: fantasy, papyrus;">these are placeholders waiting for the real thing</p>
+<a href="{{ .Site.BaseURL }}"><p style="text-align: center; font-size: 16px; font-family: fantasy, papyrus;">press to go back</p></a>
 <p style="text-align: center; font-size: 20px; font-family: fantasy, papyrus;">also check out <a href="{{ .Site.BaseURL }}/wip.html">music</a></p>
 
 <table>
@@ -59,6 +59,7 @@
 	<tr>
 		<td><div><img src="/pics/other/cworkplace.png"></div></td>
 		<td><div><img src="/pics/other/zerozerotest.png"></div></td>
+		<td><div><img src="/pics/other/streamstreamstream.gif"></div></td>
 	</tr>
 </table>
 </body>
