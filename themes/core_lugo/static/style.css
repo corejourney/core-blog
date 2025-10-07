@@ -110,7 +110,7 @@ img {
 }
 
 li {
-	font-family: 'Times New Roman', Times, serif;
+	font-family: CenturyExpanded;
 	color: rgb(33, 32, 32);
 }
 
@@ -133,7 +133,7 @@ h3 {
 
 #no-center {
 	text-align: left;
-	color: greenyellow;
+	color: rgb(16, 16, 16);
 	font-size: large;
 }
 
