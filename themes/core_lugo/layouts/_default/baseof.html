@@ -17,7 +17,7 @@
 <body>
 {{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end -}}
 <main>
-<header><h1 id="tag_{{ .Title }}"><a href="{{ .Site.BaseURL }}" style="color: rgb(227, 66, 55)">{{ block "title" . }}{{ end }}</a></h1></header>
+<header><h1 id="tag_{{ .Title }}"><a href="{{ .Site.BaseURL }}" style="color: #2442da">{{ block "title" . }}{{ end }}</a></h1></header>
 <br> <br>
 <article>
 {{ block "main" . }}

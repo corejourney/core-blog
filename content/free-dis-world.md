@@ -1,10 +1,8 @@
 +++
-title = 'disappointment (& the bridge)'
+title = 'for the rest of my life'
 date = 2025-10-05T00:37:22-04:00
 draft = true
 +++
-
-life always finds a way to disappoint me
 
 
 <!-- 

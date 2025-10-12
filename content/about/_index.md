@@ -13,7 +13,7 @@ exclude = true
 
 I was born in China on the month of March in 2007, and I grew up in a lonely house within the Greater Toronto Area (Canada). Despite this background I do not see myself as Chinese or Canadian. I am currently in post-secondary education, with the hope of becoming a doctor of medicine. 
 
-&nbsp; &nbsp; &nbsp; &nbsp; I enjoy school even as Science has 'fallen out' of my passion list. However I would still regard myself a good student, but not good enough to be considered an academic powerhouse. I am absolutely fine with that assessment and I prefer that it stays that way.
+&nbsp; &nbsp; &nbsp; &nbsp; I enjoy school even as Science has 'fallen out' of my passion list. However, I would still regard myself a good student, but not good enough to be considered an academic powerhouse. I am absolutely fine with that assessment and I prefer that it stays that way.
 
 &nbsp; &nbsp; &nbsp; &nbsp; For the longest time I have learned Chinese as a hobby. I also have limited abilities in Korean and Latin. I would not claim native fluency in any of these languages. I can read novels in Chinese, intermediate texts in Korean and beginner-intermediate texts in Latin. Turns out that learning any language is hard, but its always better to understand slightly more.
 
