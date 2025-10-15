@@ -26,6 +26,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Hesse, Herman - *Siddharta & Demain*
 - Homer - *The Iliad* (Trans. Emily Wilson)
 - Ishiguro, Kazuo - *Never Let Me Go*
+- Jang, Eun-Jin - *No One Writes Back*
 - Kang, Han - *The White Book* (Trans. Smith, Deborah)
 - Lispector, Clarice - *Água Viva* (Trans. Tobler, Stefan)
 - Lowry, Lois - *The Giver*
@@ -45,6 +46,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - 鲁迅 -《*阿Q正传*》
 - 莫言 -《*生死疲劳*》
 - 沈复 -《*浮生六记*》
+- 西亚·马尔克斯 (Márquez, Gabriel Garcia) - 《*百年孤独*》
 - 신경숙 (申京淑) - *엄마를 부탁해*
 
 ### Religious Texts and Theology
@@ -82,7 +84,6 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Camus, Albert - *The Myth of Sisyphus*
 - Nietzsche, Friedrich - *Beyond Good and Evil*
 - Kierkegaard, Søren - *Either/Or*
-- Pessoa, Fernando - *The Book of Disquiet* (Trans. Zenith, Richard)
 - Plato - *The Republic*《*理想国*》
 - Author Unknown - 《*三十六计*》
 - 鲁海 - 《*青岛旧事*》
@@ -90,6 +91,6 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - 孔子 - 《*孔子论人生：论语新解*》
 - 孙子 - 《*孙子兵法*》
 - 鬼谷子 - 《*鬼谷子*》
-- 庄子 - *Zhuāngzǐ: The Complete Writings* 《*庄子*》(Trans. Chris Fraser and others)
-- 墨子 - *The Essential Mòzi*《*墨子*》(Trans. Chris Fraser and others)
+- 庄子 - *Zhuāngzǐ: The Complete Writings* 《*庄子*》(Trans. Chris Fraser et al.)
+- 墨子 - *The Essential Mòzi*《*墨子*》(Trans. Chris Fraser et al.)
 

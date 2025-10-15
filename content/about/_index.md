@@ -17,9 +17,13 @@ I was born in China on the month of March in 2007, and I grew up in a lonely hou
 
 &nbsp; &nbsp; &nbsp; &nbsp; For the longest time I have learned Chinese as a hobby. I also have limited abilities in Korean and Latin. I would not claim native fluency in any of these languages. I can read novels in Chinese, intermediate texts in Korean and beginner-intermediate texts in Latin. Turns out that learning any language is hard, but its always better to understand slightly more.
 
-&nbsp; &nbsp; &nbsp; &nbsp; I also enjoy writing, but mostly for myself. Although I do occasionally post them [here](/journal). I rarely write anything I'm proud of so don't expect common posts. Nor a theme. The tags are there for the reader's (YOUR! 😊) benefit. I also read [a decent amount](/books). I would describe my reading preference as favouring smaller stories. My favourite English-language book is *The Waves* by Virginia Woolf, my favourite Chinese novel is *To Live*, and my favourite manga is the *Goodnight Punpun* series.
+&nbsp; &nbsp; &nbsp; &nbsp; I also enjoy writing, but mostly for myself. Although I do occasionally post them [here](/journal). I rarely write anything I'm proud of so don't expect common posts. Nor a theme. The tags are there for the reader's (YOUR! 😊) benefit. 
 
-&nbsp; &nbsp; &nbsp; &nbsp; Some smaller interests I have dabbled in (and enjoy) are: Rubiks Cube Solving, Chinese Calligraphy, Drawing (abs terrible at this atm), [Photography](/mine), Hiking, Playing Video Games, Films, Staying Informed on Politics, and Music (Listening).
+&nbsp; &nbsp; &nbsp; &nbsp; I also read [a decent amount](/books). I would describe my reading preference as favouring smaller, but not necessarily shorter, stories. My favourite English-language book is *The Waves* by Virginia Woolf, my favourite Chinese novel is *To Live* by Yu Hua, and my favourite manga is the *Goodnight Punpun* series.
+
+&nbsp; &nbsp; &nbsp; &nbsp; Some smaller interests I have dabbled in (and enjoy) are: Rubiks Cube Solving, Chinese Calligraphy, Drawing (abs terrible at this atm), Programming (Basic HTML/CSS, Java, Python), [Photography](/mine), Hiking, Playing Video Games, Films, Staying Informed on Politics, and Music (Listening).
+
+&nbsp; &nbsp; &nbsp; &nbsp; Some fun facts about me. I have a twin sibling. I (with shame) used to do sports. My favourite colour is either blue or gray. My favourite food must be fried rice. I have a pending legal name change application.
 
 &nbsp; &nbsp; &nbsp; &nbsp; There's more I could write about myself, but I'm not someone who deserves a biography.
 

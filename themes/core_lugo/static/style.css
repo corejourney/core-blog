@@ -2,7 +2,8 @@ body {
 	font-family: sans-serif ;
 	/* background: #1b1b1b; */
 	/* background: #121212; */
-	background: rgb(238, 236, 236);
+	/* background: rgb(238, 236, 236); */
+	background: rgb(216, 210, 210);
 
 	color: #ccc ;
 }
@@ -49,8 +50,8 @@ blockquote {
 	margin: 0;
 	padding-top: 5px;
 	padding-bottom: 5px;
-	background-color: rgb(232, 226, 226);
-	border: 1px solid rgb(214, 204, 204);
+	background-color: rgb(216, 210, 210);
+	border: 3px solid rgb(136, 130, 130);
   }
 
   .icon-menu li {
