@@ -7,9 +7,8 @@
 	<link rel='stylesheet' type='text/css' href='style.css'>
 	{{ with .Site.Params.favicon }}<link rel="icon" href="{{ . }}">
 	{{ end -}}
-	<meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
-	{{ if isset .Params "tags" }}<meta name="keywords" content="{{ with .Params.tags }}{{ delimit . ", " }}{{ end }}">
-	{{ end -}}
+	<meta name="description" content="In case you wanted to know about me.">
+	<meta name="keywords" content="blog, writing, personal, html, css, depression">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="robots" content="index, follow">
 	<meta charset="utf-8">
