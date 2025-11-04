@@ -19,6 +19,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Bronte, Emily - *Wuthering Heights* 《*咆哮山莊*》
 - Chbosky, Stephen - *the perks of being a wallflower*
 - Dazai, Osamu - *No Longer Human* 
+- Dazai, Osamu - *No One Knows*
 - Defoe, Daniel - *Robinson Crusoe*
 - Dostoevsky, Fyodor - *Crime and Punishment*
 - Dostoevsky, Fyodor - *Notes from Underground*
@@ -85,6 +86,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Nietzsche, Friedrich - *Beyond Good and Evil*
 - Kierkegaard, Søren - *Either/Or*
 - Plato - *The Republic*《*理想国*》
+- Plato - *The Trial and Death of Socrates* (Trans. Grube, G.M.A)
 - Author Unknown - 《*三十六计*》
 - 鲁海 - 《*青岛旧事*》
 - 墨子 - 《*墨子*》
