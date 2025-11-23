@@ -7,15 +7,16 @@ exclude = true
 
 This is a list of books I own physical copies of! ([Not including E-Books](/ebooks-h))
 
-If you want my opinion one of these books, feel free to [send me a message](/contact).
+If you want my opinion one of these books, feel free to [send me a message](/about).
 
 ***
 
 ### Fiction and Literature
-- Author Unknown - *The Three Kingdoms Volumes 1,2,3* (Trans. Yu Sumei)
+- Author Unknown - *The Three Kingdoms Volumes 1,2,3* (Trans. Yu, Sumei)
 - Anderson, Laurie - *Wintergirls*
 - Atwood, Margaret - *The Handmaid's Tale*
 - Austen, Jane - *Pride and Prejudice* 《*傲慢与偏见*》
+- Bae, Suah - *Nowhere to be Found* (Trans. Kim-Russell, Sora)
 - Bronte, Emily - *Wuthering Heights* 《*咆哮山莊*》
 - Chbosky, Stephen - *the perks of being a wallflower*
 - Dazai, Osamu - *No Longer Human* 
@@ -25,7 +26,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Dostoevsky, Fyodor - *Notes from Underground*
 - Dostoevsky, Fyodor - *White Nights*
 - Hesse, Herman - *Siddharta & Demain*
-- Homer - *The Iliad* (Trans. Emily Wilson)
+- Homer - *The Iliad* (Trans. Wilson, Emily)
 - Ishiguro, Kazuo - *Never Let Me Go*
 - Jang, Eun-Jin - *No One Writes Back*
 - Kang, Han - *The White Book* (Trans. Smith, Deborah)
@@ -36,6 +37,7 @@ If you want my opinion one of these books, feel free to [send me a message](/con
 - Murakami, Haruki - *Norweigen Wood* 《*挪威的森林*》（林少花 译）
 - Orwell, George - *1984*
 - Orwell, George - *Animal Farm*
+- Pessoa, Fernando - *The Book of Disquiet* (Trans. Zenith, Richard)
 - Plath, Slyvia - *The Bell Jar*
 - Shelley, Mary - *Frankenstein*
 - Tolstoy, Leo - *How Much Land Does a Man Need?*
