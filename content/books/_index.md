@@ -27,6 +27,7 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 - Dostoevsky, Fyodor - *White Nights*
 - Hesse, Herman - *Siddharta & Demain*
 - Homer - *The Iliad* (Trans. Wilson, Emily)
+- Homer - *The Odyssey* (Trans. Wilson, Emily)
 - Ishiguro, Kazuo - *Never Let Me Go*
 - Jang, Eun-Jin - *No One Writes Back*
 - Kang, Han - *The White Book* (Trans. Smith, Deborah)
@@ -44,6 +45,7 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 - Wilde, Oscar - *The Picture of Dorian Gray*
 - Woolf, Virginia - *The Waves*
 - Woolf, Virginia - *To The Lighthouse*
+- Zafrón, Carlos Ruiz - *Marina* (Versión en Español) 
 - 曹雪芹 著，無名氏 續， 馮其庸 評，- 《*瓜飯樓重校評批紅樓夢*》 （上，中，下）
 - 余华 - *To Live*《*活着*》
 - 鲁迅 -《*阿Q正传*》
@@ -71,7 +73,7 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 - Eckel, Malcolm - *Buddhism: Origins, Beliefs, Practices, Holy Texts and Sacred Places*
 - Keefe, Patrick - *Empire of Pain: The Secret History of the Sackler Dynasty*
 - Plutarch - *Fall of the Roman Republic* (Trans. Rex Warner)
-- Short, Philip - *Mao: A Life, Chinese Translation*《*毛泽东传中文版*》
+- Short, Philip - *Mao: A Life*《*毛泽东传*》（仝小林 译）
 
 ### Science and Medicine
 - Freeman, Walter - *Psychosurgery:  Intelligence, Emotion and Social Behavior Following Prefrontal Lobotomy for Mental Disorders*
