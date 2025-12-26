@@ -30,6 +30,7 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 - Homer - *The Odyssey* (Trans. Wilson, Emily)
 - Ishiguro, Kazuo - *Never Let Me Go*
 - Jang, Eun-Jin - *No One Writes Back*
+- Kafka, Franz - *The Trial* (Trans. David Wyllie)
 - Kang, Han - *The White Book* (Trans. Smith, Deborah)
 - Lispector, Clarice - *Água Viva* (Trans. Tobler, Stefan)
 - Lowry, Lois - *The Giver*
@@ -40,9 +41,9 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 - Orwell, George - *Animal Farm*
 - Pessoa, Fernando - *The Book of Disquiet* (Trans. Zenith, Richard)
 - Plath, Slyvia - *The Bell Jar*
-- Shelley, Mary - *Frankenstein*
 - Tolstoy, Leo - *How Much Land Does a Man Need?*
-- Wilde, Oscar - *The Picture of Dorian Gray*
+- Vuong, Ocean - *On Earth We're Briefly Gorgeous*
+- Walker, Alice - *The Color Purple*
 - Woolf, Virginia - *The Waves*
 - Woolf, Virginia - *To The Lighthouse*
 - Zafrón, Carlos Ruiz - *Marina* (Versión en Español) 
@@ -63,8 +64,7 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 
 ### Languages and Dictionaries
 - Fairclough–Brown - *Virgil's Aeneid: The Students' Series of Latin Classics*
-- Jiang, Liping - *Standard Course HSK6A* （上）
-- Jiang, Liping - *Standard Course HSK6B* （下）
+- Merriam-Webster - *Diccionario Español-Inglés*
 - Ørberg, Hans - *Lingua Latina Per Se Illustrata Pars I: Familia Romana*
 - Traupman, John - *Latin and English Dictionary: Revised and Updated*
 - 商务印书店 -《*新华汉语词典*》
@@ -72,17 +72,19 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 ### Biographies and Histories
 - Eckel, Malcolm - *Buddhism: Origins, Beliefs, Practices, Holy Texts and Sacred Places*
 - Keefe, Patrick - *Empire of Pain: The Secret History of the Sackler Dynasty*
-- Plutarch - *Fall of the Roman Republic* (Trans. Rex Warner)
+- Plutarch - *Fall of the Roman Republic* (Trans. Warner, Rex)
 - Short, Philip - *Mao: A Life*《*毛泽东传*》（仝小林 译）
 
-### Science and Medicine
+### Nonfiction
+- Adler, Alfred - *Understanding Human Nature*
+- Chang, Ha-Joon - *23 Thing's They Don't Tell You About Capitalism*
 - Freeman, Walter - *Psychosurgery:  Intelligence, Emotion and Social Behavior Following Prefrontal Lobotomy for Mental Disorders*
 - Gawande, Atul - *Being Mortal: Medicine and What Matters in the End*
-- Hawkings, Stevens - *A Brief History of Time*
 - Kirsch, Donald - *The Drug Hunters: The Improbable Quest to Discover New Medicines*
 - Maslow, A.H - *A Theory of Human Motivation*
 - Mastenbjork and Meloni - *Pharmacology Review: A Comprehensive Reference Guide for Medical, Nursing and Paramedic Students*
 - Mukherjee, Siddhartha - *The Emperor of All Maladies* 《*众病之王*》
+- Ratey, J et Hagerman, E - *Spark: The Revolutionary New Science Of Exercise And The Brain*
 
 ### Philosophy/Historical Texts
 - Aurelius, Marcus - *The Meditations* 《*沉思录*》（英中双语版）
