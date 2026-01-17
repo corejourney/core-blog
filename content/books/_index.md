@@ -67,6 +67,7 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 - Merriam-Webster - *Diccionario Español-Inglés*
 - Ørberg, Hans - *Lingua Latina Per Se Illustrata Pars I: Familia Romana*
 - Traupman, John - *Latin and English Dictionary: Revised and Updated*
+- Tuttle - *Mini Korean Dictionary*
 - 商务印书店 -《*新华汉语词典*》
 
 ### Biographies and Histories
@@ -78,6 +79,7 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 ### Nonfiction
 - Adler, Alfred - *Understanding Human Nature*
 - Chang, Ha-Joon - *23 Thing's They Don't Tell You About Capitalism*
+- Dawkings, Richard - *The Selfish Gene*
 - Freeman, Walter - *Psychosurgery:  Intelligence, Emotion and Social Behavior Following Prefrontal Lobotomy for Mental Disorders*
 - Gawande, Atul - *Being Mortal: Medicine and What Matters in the End*
 - Kirsch, Donald - *The Drug Hunters: The Improbable Quest to Discover New Medicines*
