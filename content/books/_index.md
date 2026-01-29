@@ -83,6 +83,7 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 - Freeman, Walter - *Psychosurgery:  Intelligence, Emotion and Social Behavior Following Prefrontal Lobotomy for Mental Disorders*
 - Gawande, Atul - *Being Mortal: Medicine and What Matters in the End*
 - Kirsch, Donald - *The Drug Hunters: The Improbable Quest to Discover New Medicines*
+- Lembke, Anna - *dopamine nation*
 - Maslow, A.H - *A Theory of Human Motivation*
 - Mastenbjork and Meloni - *Pharmacology Review: A Comprehensive Reference Guide for Medical, Nursing and Paramedic Students*
 - Mukherjee, Siddhartha - *The Emperor of All Maladies* 《*众病之王*》
