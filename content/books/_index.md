@@ -42,6 +42,7 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 - Pessoa, Fernando - *The Book of Disquiet* (Trans. Zenith, Richard)
 - Plath, Slyvia - *The Bell Jar*
 - Tolstoy, Leo - *How Much Land Does a Man Need?*
+- Tolstoy, Leo - *The Death of Ivan Ilyich and Other Stories* (Trans. Briggs, Anthony)
 - Vuong, Ocean - *On Earth We're Briefly Gorgeous*
 - Walker, Alice - *The Color Purple*
 - Woolf, Virginia - *The Waves*
@@ -78,12 +79,14 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 
 ### Nonfiction
 - Adler, Alfred - *Understanding Human Nature*
+- Amen, Daniel - *Change Your Brain, Change Your Life*
+- Brooks, Arthur et Winfrey, Oprah - *Build The Life You Want*
 - Chang, Ha-Joon - *23 Thing's They Don't Tell You About Capitalism*
 - Dawkings, Richard - *The Selfish Gene*
 - Freeman, Walter - *Psychosurgery:  Intelligence, Emotion and Social Behavior Following Prefrontal Lobotomy for Mental Disorders*
 - Gawande, Atul - *Being Mortal: Medicine and What Matters in the End*
 - Kirsch, Donald - *The Drug Hunters: The Improbable Quest to Discover New Medicines*
-- Lembke, Anna - *dopamine nation*
+- Lembke, Anna - *Dopamine Nation*
 - Maslow, A.H - *A Theory of Human Motivation*
 - Mastenbjork and Meloni - *Pharmacology Review: A Comprehensive Reference Guide for Medical, Nursing and Paramedic Students*
 - Mukherjee, Siddhartha - *The Emperor of All Maladies* 《*众病之王*》
