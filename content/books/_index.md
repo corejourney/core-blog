@@ -54,7 +54,10 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 - 莫言 -《*生死疲劳*》
 - 沈复 -《*浮生六记*》
 - 西亚·马尔克斯 (Márquez, Gabriel Garcia) - 《*百年孤独*》
+- 다자이 오사무 (太宰 治)- *여학생*
 - 신경숙 (申京淑) - *엄마를 부탁해*
+- 정재찬 - *시를 잊은 그대에게*
+- 조남주 (趙南柱) - *82년생 김지영*
 
 ### Religious Texts and Theology
 - Author Unknown - *The King James Bible (1611)*
@@ -81,7 +84,7 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 - Adler, Alfred - *Understanding Human Nature*
 - Amen, Daniel - *Change Your Brain, Change Your Life*
 - Brooks, Arthur et Winfrey, Oprah - *Build The Life You Want*
-- Chang, Ha-Joon - *23 Thing's They Don't Tell You About Capitalism*
+- Chang, Ha-Joon - *23 Things They Don't Tell You About Capitalism*
 - Dawkings, Richard - *The Selfish Gene*
 - Freeman, Walter - *Psychosurgery:  Intelligence, Emotion and Social Behavior Following Prefrontal Lobotomy for Mental Disorders*
 - Gawande, Atul - *Being Mortal: Medicine and What Matters in the End*
