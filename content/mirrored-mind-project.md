@@ -5,7 +5,7 @@ draft = false
 tags = ["🎨Art", "🈶Language"]
 +++
 
-#### This article is available in [English]() and [Chinese](/mirrored-mind-projectZH/)
+#### This article is available in [English]() and [Chinese](/mirrored-mind-projectzh/)
 
 Since I've learned Chinese and Korean for a decent amount of time, I thought that it would be convenient to put it to some use. I had been thinking of what exactly I could do, and an opportunity came up just as quickly as I had the thought for a project itself.
 
