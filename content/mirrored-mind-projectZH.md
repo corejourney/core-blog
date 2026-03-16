@@ -1,8 +1,8 @@
 +++
 title = '镜心项目'
-date = 2026-03-15T14:47:26-04:00
-exclude = true
+date = 0000-01-01T22:30:09-04:00
 draft = false
+exclude = true
 +++
 
 #### 此片页面具有[英语版](/mirrored-mind-project/)和[中文版]()
