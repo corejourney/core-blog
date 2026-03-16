@@ -2,6 +2,7 @@
 title = '镜心项目'
 date = 0000-01-01T22:30:09-04:00
 draft = false
+layout = "baseof"
 exclude = true
 +++
 
