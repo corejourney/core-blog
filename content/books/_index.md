@@ -37,7 +37,7 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 - Maugham, Somerset - *Of Human Bondage*
 - Murakami, Haruki - *1Q84: The Complete Trilogy*
 - Murakami, Haruki - *Norweigen Wood* 《*挪威的森林*》（林少花 译）
-- Orwell, George - *1984*
+- Orwell, George - *1984* (Version en Français)
 - Orwell, George - *Animal Farm*
 - Pessoa, Fernando - *The Book of Disquiet* (Trans. Zenith, Richard)
 - Plath, Slyvia - *The Bell Jar*
@@ -53,6 +53,7 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 - 鲁迅 -《*阿Q正传*》
 - 莫言 -《*生死疲劳*》
 - 沈复 -《*浮生六记*》
+- 浅野いにお　ー　*おやすみプンプン* （全13巻）
 - 西亚·马尔克斯 (Márquez, Gabriel Garcia) - 《*百年孤独*》
 - 다자이 오사무 (太宰 治)- *여학생*
 - 신경숙 (申京淑) - *엄마를 부탁해*
@@ -94,6 +95,7 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 - Mastenbjork and Meloni - *Pharmacology Review: A Comprehensive Reference Guide for Medical, Nursing and Paramedic Students*
 - Mukherjee, Siddhartha - *The Emperor of All Maladies* 《*众病之王*》
 - Ratey, J et Hagerman, E - *Spark: The Revolutionary New Science Of Exercise And The Brain*
+- 余华 - 《*十个词汇里的中国*》
 
 ### Philosophy/Historical Texts
 - Aurelius, Marcus - *The Meditations* 《*沉思录*》（英中双语版）
