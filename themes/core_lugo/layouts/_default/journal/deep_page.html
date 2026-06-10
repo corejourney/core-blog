@@ -20,17 +20,24 @@
 <header><a href="{{ .Site.BaseURL }}"><h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1></a></header>
 <a href="{{ .Site.BaseURL }}"><h1 style="text-align: center; color:#2442da">corejournal</h1></a>
 <br>
-<img src="/pics/shore-edit1.png" style="max-width: 70%;">
+<!-- <img src="/pics/shore-edit1.png" style="max-width: 70%;"> -->
 
 <!-- 6283e0 -->
 
-<a href="{{ .Site.BaseURL }}/the_deep"><p style="text-align: center; font-size: 30px; color:#5c6ce8">deeper</p></a>
+<br>
+<!-- <h2>Story Entries</h2> -->
+<br>
 
-<!-- <h2>Entries</h2> -->
+
+<a href="{{ .Site.BaseURL }}/the_deep_page_exp" style="color: #5c6ce8; text-decoration: none;"><p style="text-align: center; color: #5c6ce8; font-size: 20px;">What is this page?</p></a>
+
+<br>
+
+
+<h2 style="text-align: center;">Stories</h2>
 <ul style="list-style-type: none;">
-	<hr>
     {{- range .Site.RegularPages }}
-        {{- if not (or .Params.exclude .Params.deep) }}
+        {{- if (and .Params.deep (eq .Params.deep_type "story"))}}
             <li>
                 {{- if .Param "datesinlist" }}<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" style="font-family: monospace; color: rgb(33, 32, 32);">{{ .Date.Format "2006 Jan 02" }}</time> &ndash; {{ end -}}
                 <a href="{{ .RelPermalink }}" style="color: #5c6ce8; text-decoration: none;">{{ .Title }}</a>
@@ -40,31 +47,22 @@
                     {{ end }}
                 {{ end -}}
             </li>
-			<hr>
         {{- end }}
     {{- end }}
 </ul>
+
+<h2 style="text-align: center;">Translations</h2>
+<h2 style="text-align: center;">Essays/Articles</h2>
+
+
 <br> <br><br>
 
-<div style="clear:both" class=taglist>
-	<h3>Entry tags:<br></h3>
-		<a href="{{ .Site.BaseURL }}/tags/art" style="font-family: 'Times New Roman', Times, serif;">🎨Art</a> &middot;
-		<a href="{{ .Site.BaseURL }}/tags/language" style="font-family: 'Times New Roman', Times, serif;">🈶Language</a> &middot;
-		<a href="{{ .Site.BaseURL }}/tags/literature" style="font-family: 'Times New Roman', Times, serif;">📖Literature</a> &middot;
-		<a href="{{ .Site.BaseURL }}/tags/personal" style="font-family: 'Times New Roman', Times, serif;">🧑Personal</a> &middot;
-		<a href="{{ .Site.BaseURL }}/tags/opinion" style="font-family: 'Times New Roman', Times, serif;">😎Opinion</a> &middot;
-		<a href="{{ .Site.BaseURL }}/tags/technology" style="font-family: 'Times New Roman', Times, serif;">💻Technology</a> &middot;
-		<a href="{{ .Site.BaseURL }}/tags/tutorial" style="font-family: 'Times New Roman', Times, serif;">💡Tutorial</a> &middot;
-		<a href="{{ .Site.BaseURL }}/tags/%EF%B8%8Fessay" style="font-family: 'Times New Roman', Times, serif;">✏️Essay</a>
-	<p>Some tags may not exist yet.</p>
-</div>
 
 </main>
 <footer>
 	<br> <br><br>
 	<a href="{{ .Site.BaseURL }}" id="base-url" style="color: #5c6ce8;">Back to Main</a> 
 	<br><br>
-	<a href="/index.xml"><img src="/rss.svg" style="max-height:1.5em" alt="RSS Feed" title="Subscribe to the RSS Feed~!"></a>
 </footer>
 </body>
 </html>
