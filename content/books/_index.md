@@ -59,6 +59,7 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 - 신경숙 (申京淑) - *엄마를 부탁해*
 - 정재찬 - *시를 잊은 그대에게*
 - 조남주 (趙南柱) - *82년생 김지영*
+- 여러 각자 - *이효석 문학상: 외진 곳*
 
 ### Religious Texts and Theology
 - Author Unknown - *The King James Bible (1611)*
@@ -74,6 +75,8 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 - Traupman, John - *Latin and English Dictionary: Revised and Updated*
 - Tuttle - *Mini Korean Dictionary*
 - 商务印书店 -《*新华汉语词典*》
+- 外语教学与研究出版社 - 《*现代韩中中韩词典*》*현대 한중.중한 사전*
+- 日本株式会社旺文社 -《*日汉双解学习词典*》
 
 ### Biographies and Histories
 - Eckel, Malcolm - *Buddhism: Origins, Beliefs, Practices, Holy Texts and Sacred Places*
@@ -95,6 +98,8 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 - Mastenbjork and Meloni - *Pharmacology Review: A Comprehensive Reference Guide for Medical, Nursing and Paramedic Students*
 - Mukherjee, Siddhartha - *The Emperor of All Maladies* 《*众病之王*》
 - Ratey, J et Hagerman, E - *Spark: The Revolutionary New Science Of Exercise And The Brain*
+- Kevin Macpherson - 《*光与色*》
+- 布罗特 贝弗利 黑尔 - 《*向大师学绘画*》 
 - 余华 - 《*十个词汇里的中国*》
 
 ### Philosophy/Historical Texts
