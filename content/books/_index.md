@@ -102,9 +102,16 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 - 布罗特 贝弗利 黑尔 - 《*向大师学绘画*》 
 - 余华 - 《*十个词汇里的中国*》
 
+### Marxist Theory
+- Marx, Karl - *Capital: Vol 2*
+- Lenin, Vladimir - *The State and Revolution*
+- Lénine, Vladimir - *L'Impérialisme: Stade Suprême du Capitalisme*
+- Lénine, Vladimir - *Que faire?*
+
 ### Philosophy/Historical Texts
 - Aurelius, Marcus - *The Meditations* 《*沉思录*》（英中双语版）
 - Camus, Albert - *The Myth of Sisyphus*
+- Hobbes, Thomas - *Leviathan*
 - Nietzsche, Friedrich - *Beyond Good and Evil*
 - Kierkegaard, Søren - *Either/Or*
 - Plato - *The Republic*《*理想国*》
