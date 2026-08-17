@@ -195,3 +195,16 @@ blockquote p {
 	color: #789922;
 	font-family: Arial, Helvetica, sans-serif;
 }
+
+thead {
+	color: darkblue;
+}
+
+th, td {
+	color: darkblue;
+	padding: 4px;
+}
+
+table {
+	width: 60%;
+}

@@ -104,6 +104,8 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 
 ### Marxist Theory
 - Marx, Karl - *Capital: Vol 2*
+- Marx, Karl - *La Guerre Civile En France*
+- Marx, Karl - *La Lutte Des Classes En France*
 - Lenin, Vladimir - *The State and Revolution*
 - Lénine, Vladimir - *L'Impérialisme: Stade Suprême du Capitalisme*
 - Lénine, Vladimir - *Que faire?*
