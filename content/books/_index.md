@@ -9,6 +9,8 @@ This is a list of books I own physical copies of! ([Not including E-Books](/eboo
 
 If you want my opinion one of these books, feel free to [send me a message](/about).
 
+If a book is of a foriegn language, the title will be in that respective language. All translators marked.
+
 ***
 
 ### Fiction and Literature
@@ -19,6 +21,7 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 - Bae, Suah - *Nowhere to be Found* (Trans. Kim-Russell, Sora)
 - Bronte, Emily - *Wuthering Heights* 《*咆哮山莊*》
 - Chbosky, Stephen - *the perks of being a wallflower*
+- Dazai, Osamu - *Good-Bye*
 - Dazai, Osamu - *No Longer Human* 
 - Dazai, Osamu - *No One Knows*
 - Defoe, Daniel - *Robinson Crusoe*
@@ -106,6 +109,8 @@ If you want my opinion one of these books, feel free to [send me a message](/abo
 - Marx, Karl - *Capital: Vol 2*
 - Marx, Karl - *La Guerre Civile En France*
 - Marx, Karl - *La Lutte Des Classes En France*
+- Marx, Karl - *The 18th Brumaire of Louis Bonaparte*
+- Marx, Karl - *Karl Marx: The Political Writings* (Pub. Verso Books)
 - Lenin, Vladimir - *The State and Revolution*
 - Lénine, Vladimir - *L'Impérialisme: Stade Suprême du Capitalisme*
 - Lénine, Vladimir - *Que faire?*
