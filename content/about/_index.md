@@ -11,7 +11,7 @@ exclude = true
 {{< h3 id="no-center" >}}Some things about me.{{< /h3 >}}
 
 
-My name is Zijing. I was born in China on the month of March in 2007, and I grew up in a lonely house in Canada. Despite this background I do not see myself as Chinese or Canadian.
+My name is Zijing (or Jordan). I was born in China on the month of March in 2007, and I grew up in a lonely house in Canada. Despite this background I do not see myself as Chinese or Canadian.
 
 &nbsp; &nbsp; &nbsp; &nbsp; I am a Science student in a university in the Greater Toronto Area. I consider myself to be a good student and I have dreams of being a doctor one day. If you're in a situation similar to me then I would love to meet and know you.
 
