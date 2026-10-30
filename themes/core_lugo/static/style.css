@@ -3,7 +3,7 @@ body {
 	/* background: #1b1b1b; */
 	/* background: #121212; */
 	/* background: rgb(238, 236, 236); */
-	background: rgb(231, 225, 225);
+	background: rgb(56, 51, 51);
 
 	color: #ccc ;
 }
@@ -50,8 +50,8 @@ blockquote {
 	margin: 0;
 	padding-top: 5px;
 	padding-bottom: 5px;
-	background-color: rgb(216, 210, 210);
-	border: 3px solid rgb(136, 130, 130);
+	background-color: rgb(77, 75, 75);
+	border: 3px solid rgb(65, 62, 62);
   }
 
   .icon-menu li {
@@ -80,11 +80,11 @@ blockquote {
   }
 
 em {
-	color: rgb(119, 111, 111);
+	color: rgb(176, 178, 192);
 }
 
 a {
-	color: #5c6ce8;
+	color: #7381ea;
 	font-family: CenturyExpanded;
 	text-decoration: none;
 }
@@ -94,7 +94,7 @@ strong {
 }
 
 main {
-	max-width: 650px ;
+	max-width: 900px ;
 	margin: auto ;
 }
 
@@ -112,7 +112,7 @@ img {
 
 li {
 	font-family: CenturyExpanded;
-	color: rgb(33, 32, 32);
+	color: rgb(182, 199, 201);
 }
 
 .section_header {
@@ -125,14 +125,14 @@ h2 {
 }
 
 h3 {
-	color: rgb(16, 16, 16);
+	color: rgb(190, 149, 149);
 	font-size: large;
 	font-family: CenturyExpanded;
 }
 
 #no-center {
 	text-align: left;
-	color: rgb(16, 16, 16);
+	color: rgb(190, 149, 149);
 	font-size: large;
 }
 
@@ -143,8 +143,15 @@ h3 {
 
 p {
 	font-family: CenturyExpanded;
-	color: rgb(52, 50, 50);
+	color: rgb(233, 230, 230);
 	line-height: 1.5;
+}
+
+#centerP {
+	font-family: CenturyExpanded;
+	color: rgb(233, 230, 230);
+	line-height: 1.5;
+
 }
 
 header h1 {
@@ -153,9 +160,9 @@ header h1 {
 
 h1 {
 	text-align: center ;
-	color: #248bda;
+	color: #93b3cb;
 	font-size: xx-large;
-	font-family: CenturyExpanded;
+	font-family: akwe;
 }
 
 footer {
@@ -201,7 +208,6 @@ thead {
 }
 
 th, td {
-	color: darkblue;
 	padding: 4px;
 }
 
